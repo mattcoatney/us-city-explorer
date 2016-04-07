@@ -1,0 +1,390 @@
+﻿Abilene, TX Metro Area	165252
+Akron, OH Metro Area	703200
+Albany, GA Metro Area	157308
+Albany, OR Metro Area	116672
+Albany-Schenectady-Troy, NY Metro Area	870716
+Albuquerque, NM Metro Area	887077
+Alexandria, LA Metro Area	153922
+Allentown-Bethlehem-Easton, PA-NJ Metro Area	821173
+Altoona, PA Metro Area	127089
+Amarillo, TX Metro Area	251933
+Ames, IA Metro Area	89542
+Anchorage, AK Metro Area	380821
+Ann Arbor, MI Metro Area	344791
+Anniston-Oxford-Jacksonville, AL Metro Area	118572
+Appleton, WI Metro Area	225666
+Asheville, NC Metro Area	424858
+Athens-Clarke County, GA Metro Area	192541
+Atlanta-Sandy Springs-Roswell, GA Metro Area	5286728
+Atlantic City-Hammonton, NJ Metro Area	274549
+Auburn-Opelika, AL Metro Area	140247
+Augusta-Richmond County, GA-SC Metro Area	564873
+Austin-Round Rock, TX Metro Area	1716289
+Bakersfield, CA Metro Area	839631
+Baltimore-Columbia-Towson, MD Metro Area	2710489
+Bangor, ME Metro Area	153923
+Barnstable Town, MA Metro Area	215888
+Baton Rouge, LA Metro Area	802484
+Battle Creek, MI Metro Area	136146
+Bay City, MI Metro Area	107771
+Beaumont-Port Arthur, TX Metro Area	403190
+Beckley, WV Metro Area	124898
+Bellingham, WA Metro Area	201140
+Bend-Redmond, OR Metro Area	157733
+Billings, MT Metro Area	158934
+Binghamton, NY Metro Area	251725
+Birmingham-Hoover, AL Metro Area	1128047
+Bismarck, ND Metro Area	114778
+Blacksburg-Christiansburg-Radford, VA Metro Area	178237
+Bloomington, IL Metro Area	186133
+Bloomington, IN Metro Area	159549
+Bloomsburg-Berwick, PA Metro Area	85562
+Boise City, ID Metro Area	616561
+Boston-Cambridge-Newton, MA-NH Metro Area	4552402
+Boulder, CO Metro Area	294567
+Bowling Green, KY Metro Area	158599
+Bremerton-Silverdale, WA Metro Area	251133
+Bridgeport-Stamford-Norwalk, CT Metro Area	916829
+Brownsville-Harlingen, TX Metro Area	406220
+Brunswick, GA Metro Area	112370
+Buffalo-Cheektowaga-Niagara Falls, NY Metro Area	1135509
+Burlington, NC Metro Area	151131
+Burlington-South Burlington, VT Metro Area	211261
+California-Lexington Park, MD Metro Area	105151
+Canton-Massillon, OH Metro Area	404422
+Cape Coral-Fort Myers, FL Metro Area	618754
+Cape Girardeau, MO-IL Metro Area	96275
+Carbondale-Marion, IL Metro Area	126575
+Carson City, NV Metro Area	55274
+Casper, WY Metro Area	75450
+Cedar Rapids, IA Metro Area	257940
+Chambersburg-Waynesboro, PA Metro Area	149618
+Champaign-Urbana, IL Metro Area	231891
+Charleston, WV Metro Area	227078
+Charleston-North Charleston, SC Metro Area	664607
+Charlotte-Concord-Gastonia, NC-SC Metro Area	2217012
+Charlottesville, VA Metro Area	218705
+Chattanooga, TN-GA Metro Area	528143
+Cheyenne, WY Metro Area	91738
+Chicago-Naperville-Elgin, IL-IN-WI Metro Area	9461105
+Chico, CA Metro Area	220000
+Cincinnati, OH-KY-IN Metro Area	2114580
+Clarksville, TN-KY Metro Area	260625
+Cleveland, TN Metro Area	115788
+Cleveland-Elyria, OH Metro Area	2077240
+Coeur d'Alene, ID Metro Area	138494
+College Station-Bryan, TX Metro Area	228660
+Colorado Springs, CO Metro Area	645613
+Columbia, MO Metro Area	162642
+Columbia, SC Metro Area	767598
+Columbus, GA-AL Metro Area	294865
+Columbus, IN Metro Area	76794
+Columbus, OH Metro Area	1901974
+Corpus Christi, TX Metro Area	428185
+Corvallis, OR Metro Area	85579
+Crestview-Fort Walton Beach-Destin, FL Metro Area	235865
+Cumberland, MD-WV Metro Area	103299
+Dallas-Fort Worth-Arlington, TX Metro Area	6426214
+Dalton, GA Metro Area	142227
+Danville, IL Metro Area	81625
+Daphne-Fairhope-Foley, AL Metro Area	182265
+Davenport-Moline-Rock Island, IA-IL Metro Area	379690
+Dayton, OH Metro Area	799232
+Decatur, AL Metro Area	153829
+Decatur, IL Metro Area	110768
+Deltona-Daytona Beach-Ormond Beach, FL Metro Area	590289
+Denver-Aurora-Lakewood, CO Metro Area	2543482
+Des Moines-West Des Moines, IA Metro Area	569633
+Detroit-Warren-Dearborn, MI Metro Area	4296250
+Dothan, AL Metro Area	145639
+Dover, DE Metro Area	162310
+Dubuque, IA Metro Area	93653
+Duluth, MN-WI Metro Area	279771
+Durham-Chapel Hill, NC Metro Area	504357
+East Stroudsburg, PA Metro Area	169842
+Eau Claire, WI Metro Area	161151
+El Centro, CA Metro Area	174528
+Elizabethtown-Fort Knox, KY Metro Area	148338
+Elkhart-Goshen, IN Metro Area	197559
+Elmira, NY Metro Area	88830
+El Paso, TX Metro Area	804123
+Erie, PA Metro Area	280566
+Eugene, OR Metro Area	351715
+Evansville, IN-KY Metro Area	311552
+Fairbanks, AK Metro Area	97581
+Fargo, ND-MN Metro Area	208777
+Farmington, NM Metro Area	130044
+Fayetteville, NC Metro Area	366383
+Fayetteville-Springdale-Rogers, AR-MO Metro Area	463204
+Flagstaff, AZ Metro Area	134421
+Flint, MI Metro Area	425790
+Florence, SC Metro Area	205566
+Florence-Muscle Shoals, AL Metro Area	147137
+Fond du Lac, WI Metro Area	101633
+Fort Collins, CO Metro Area	299630
+Fort Smith, AR-OK Metro Area	280467
+Fort Wayne, IN Metro Area	416257
+Fresno, CA Metro Area	930450
+Gadsden, AL Metro Area	104430
+Gainesville, FL Metro Area	264275
+Gainesville, GA Metro Area	179684
+Gettysburg, PA Metro Area	101407
+Glens Falls, NY Metro Area	128923
+Goldsboro, NC Metro Area	122623
+Grand Forks, ND-MN Metro Area	98461
+Grand Island, NE Metro Area	81850
+Grand Junction, CO Metro Area	146723
+Grand Rapids-Wyoming, MI Metro Area	988938
+Grants Pass, OR Metro Area	82713
+Great Falls, MT Metro Area	81327
+Greeley, CO Metro Area	252825
+Green Bay, WI Metro Area	306241
+Greensboro-High Point, NC Metro Area	723801
+Greenville, NC Metro Area	168148
+Greenville-Anderson-Mauldin, SC Metro Area	824112
+Gulfport-Biloxi-Pascagoula, MS Metro Area	370702
+Hagerstown-Martinsburg, MD-WV Metro Area	251599
+Hammond, LA Metro Area	121097
+Hanford-Corcoran, CA Metro Area	152982
+Harrisburg-Carlisle, PA Metro Area	549475
+Harrisonburg, VA Metro Area	125228
+Hartford-West Hartford-East Hartford, CT Metro Area	1212381
+Hattiesburg, MS Metro Area	142842
+Hickory-Lenoir-Morganton, NC Metro Area	365497
+Hilton Head Island-Bluffton-Beaufort, SC Metro Area	187010
+Hinesville, GA Metro Area	77917
+Homosassa Springs, FL Metro Area	141236
+Hot Springs, AR Metro Area	96024
+Houma-Thibodaux, LA Metro Area	208178
+Houston-The Woodlands-Sugar Land, TX Metro Area	5920416
+Huntington-Ashland, WV-KY-OH Metro Area	364908
+Huntsville, AL Metro Area	417593
+Idaho Falls, ID Metro Area	133265
+Indianapolis-Carmel-Anderson, IN Metro Area	1887877
+Iowa City, IA Metro Area	152586
+Ithaca, NY Metro Area	101564
+Jackson, MI Metro Area	160248
+Jackson, MS Metro Area	567122
+Jackson, TN Metro Area	130011
+Jacksonville, FL Metro Area	1345596
+Jacksonville, NC Metro Area	177772
+Janesville-Beloit, WI Metro Area	160331
+Jefferson City, MO Metro Area	149807
+Johnson City, TN Metro Area	198716
+Johnstown, PA Metro Area	143679
+Jonesboro, AR Metro Area	121026
+Joplin, MO Metro Area	175518
+Kahului-Wailuku-Lahaina, HI Metro Area	154924
+Kalamazoo-Portage, MI Metro Area	326589
+Kankakee, IL Metro Area	113449
+Kansas City, MO-KS Metro Area	2009342
+Kennewick-Richland, WA Metro Area	253340
+Killeen-Temple, TX Metro Area	405300
+Kingsport-Bristol-Bristol, TN-VA Metro Area	309544
+Kingston, NY Metro Area	182493
+Knoxville, TN Metro Area	837571
+Kokomo, IN Metro Area	82752
+La Crosse-Onalaska, WI-MN Metro Area	133665
+Lafayette, LA Metro Area	466750
+Lafayette-West Lafayette, IN Metro Area	201789
+Lake Charles, LA Metro Area	199607
+Lake Havasu City-Kingman, AZ Metro Area	200186
+Lakeland-Winter Haven, FL Metro Area	602095
+Lancaster, PA Metro Area	519445
+Lansing-East Lansing, MI Metro Area	464036
+Laredo, TX Metro Area	250304
+Las Cruces, NM Metro Area	209233
+Las Vegas-Henderson-Paradise, NV Metro Area	1951269
+Lawrence, KS Metro Area	110826
+Lawton, OK Metro Area	130291
+Lebanon, PA Metro Area	133568
+Lewiston, ID-WA Metro Area	60888
+Lewiston-Auburn, ME Metro Area	107702
+Lexington-Fayette, KY Metro Area	472099
+Lima, OH Metro Area	106331
+Lincoln, NE Metro Area	302157
+Little Rock-North Little Rock-Conway, AR Metro Area	699757
+Logan, UT-ID Metro Area	125442
+Longview, TX Metro Area	214369
+Longview, WA Metro Area	102410
+Los Angeles-Long Beach-Anaheim, CA Metro Area	12828837
+Louisville/Jefferson County, KY-IN Metro Area	1235708
+Lubbock, TX Metro Area	290805
+Lynchburg, VA Metro Area	252634
+Macon, GA Metro Area	232293
+Madera, CA Metro Area	150865
+Madison, WI Metro Area	605435
+Manchester-Nashua, NH Metro Area	400721
+Manhattan, KS Metro Area	92719
+Mankato-North Mankato, MN Metro Area	96740
+Mansfield, OH Metro Area	124475
+McAllen-Edinburg-Mission, TX Metro Area	774769
+Medford, OR Metro Area	203206
+Memphis, TN-MS-AR Metro Area	1324829
+Merced, CA Metro Area	255793
+Miami-Fort Lauderdale-West Palm Beach, FL Metro Area	5564635
+Michigan City-La Porte, IN Metro Area	111467
+Midland, MI Metro Area	83629
+Midland, TX Metro Area	141671
+Milwaukee-Waukesha-West Allis, WI Metro Area	1555908
+Minneapolis-St. Paul-Bloomington, MN-WI Metro Area	3348859
+Missoula, MT Metro Area	109299
+Mobile, AL Metro Area	412992
+Modesto, CA Metro Area	514453
+Monroe, LA Metro Area	176441
+Monroe, MI Metro Area	152021
+Montgomery, AL Metro Area	374536
+Morgantown, WV Metro Area	129709
+Morristown, TN Metro Area	113951
+Mount Vernon-Anacortes, WA Metro Area	116901
+Muncie, IN Metro Area	117671
+Muskegon, MI Metro Area	172188
+Myrtle Beach-Conway-North Myrtle Beach, SC-NC Metro Area	376722
+Napa, CA Metro Area	136484
+Naples-Immokalee-Marco Island, FL Metro Area	321520
+Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area	1670890
+New Bern, NC Metro Area	126802
+New Haven-Milford, CT Metro Area	862477
+New Orleans-Metairie, LA Metro Area	1189866
+New York-Newark-Jersey City, NY-NJ-PA Metro Area	19567410
+Niles-Benton Harbor, MI Metro Area	156813
+North Port-Sarasota-Bradenton, FL Metro Area	702281
+Norwich-New London, CT Metro Area	274055
+Ocala, FL Metro Area	331298
+Ocean City, NJ Metro Area	97265
+Odessa, TX Metro Area	137130
+Ogden-Clearfield, UT Metro Area	597159
+Oklahoma City, OK Metro Area	1252987
+Olympia-Tumwater, WA Metro Area	252264
+Omaha-Council Bluffs, NE-IA Metro Area	865350
+Orlando-Kissimmee-Sanford, FL Metro Area	2134411
+Oshkosh-Neenah, WI Metro Area	166994
+Owensboro, KY Metro Area	114752
+Oxnard-Thousand Oaks-Ventura, CA Metro Area	823318
+Palm Bay-Melbourne-Titusville, FL Metro Area	543376
+Panama City, FL Metro Area	184715
+Parkersburg-Vienna, WV Metro Area	92673
+Pensacola-Ferry Pass-Brent, FL Metro Area	448991
+Peoria, IL Metro Area	379186
+Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	5965343
+Phoenix-Mesa-Scottsdale, AZ Metro Area	4192887
+Pine Bluff, AR Metro Area	100258
+Pittsburgh, PA Metro Area	2356285
+Pittsfield, MA Metro Area	131219
+Pocatello, ID Metro Area	82839
+Portland-South Portland, ME Metro Area	514098
+Portland-Vancouver-Hillsboro, OR-WA Metro Area	2226009
+Port St. Lucie, FL Metro Area	424107
+Prescott, AZ Metro Area	211033
+Providence-Warwick, RI-MA Metro Area	1600852
+Provo-Orem, UT Metro Area	526810
+Pueblo, CO Metro Area	159063
+Punta Gorda, FL Metro Area	159978
+Racine, WI Metro Area	195408
+Raleigh, NC Metro Area	1130490
+Rapid City, SD Metro Area	134598
+Reading, PA Metro Area	411442
+Redding, CA Metro Area	177223
+Reno, NV Metro Area	425417
+Richmond, VA Metro Area	1208101
+Riverside-San Bernardino-Ontario, CA Metro Area	4224851
+Roanoke, VA Metro Area	308707
+Rochester, MN Metro Area	206877
+Rochester, NY Metro Area	1079671
+Rockford, IL Metro Area	349431
+Rocky Mount, NC Metro Area	152392
+Rome, GA Metro Area	96317
+Sacramento--Roseville--Arden-Arcade, CA Metro Area	2149127
+Saginaw, MI Metro Area	200169
+St. Cloud, MN Metro Area	189093
+St. George, UT Metro Area	138115
+St. Joseph, MO-KS Metro Area	127329
+St. Louis, MO-IL Metro Area	2787701
+Salem, OR Metro Area	390738
+Salinas, CA Metro Area	415057
+Salisbury, MD-DE Metro Area	373802
+Salt Lake City, UT Metro Area	1087873
+San Angelo, TX Metro Area	111823
+San Antonio-New Braunfels, TX Metro Area	2142508
+San Diego-Carlsbad, CA Metro Area	3095313
+San Francisco-Oakland-Hayward, CA Metro Area	4335391
+San Jose-Sunnyvale-Santa Clara, CA Metro Area	1836911
+San Luis Obispo-Paso Robles-Arroyo Grande, CA Metro Area	269637
+Santa Cruz-Watsonville, CA Metro Area	262382
+Santa Fe, NM Metro Area	144170
+Santa Maria-Santa Barbara, CA Metro Area	423895
+Santa Rosa, CA Metro Area	483878
+Savannah, GA Metro Area	347611
+Scranton--Wilkes-Barre--Hazleton, PA Metro Area	563631
+Seattle-Tacoma-Bellevue, WA Metro Area	3439809
+Sebastian-Vero Beach, FL Metro Area	138028
+Sebring, FL Metro Area	98786
+Sheboygan, WI Metro Area	115507
+Sherman-Denison, TX Metro Area	120877
+Shreveport-Bossier City, LA Metro Area	439811
+Sierra Vista-Douglas, AZ Metro Area	131346
+Sioux City, IA-NE-SD Metro Area	168563
+Sioux Falls, SD Metro Area	228261
+South Bend-Mishawaka, IN-MI Metro Area	319224
+Spartanburg, SC Metro Area	313268
+Spokane-Spokane Valley, WA Metro Area	527753
+Springfield, IL Metro Area	210170
+Springfield, MA Metro Area	621570
+Springfield, MO Metro Area	436712
+Springfield, OH Metro Area	138333
+State College, PA Metro Area	153990
+Staunton-Waynesboro, VA Metro Area	118502
+Stockton-Lodi, CA Metro Area	685306
+Sumter, SC Metro Area	107456
+Syracuse, NY Metro Area	662577
+Tallahassee, FL Metro Area	367413
+Tampa-St. Petersburg-Clearwater, FL Metro Area	2783243
+Terre Haute, IN Metro Area	172425
+Texarkana, TX-AR Metro Area	149198
+The Villages, FL Metro Area	93420
+Toledo, OH Metro Area	610001
+Topeka, KS Metro Area	233870
+Trenton, NJ Metro Area	366513
+Tucson, AZ Metro Area	980263
+Tulsa, OK Metro Area	937478
+Tuscaloosa, AL Metro Area	230162
+Tyler, TX Metro Area	209714
+Urban Honolulu, HI Metro Area	953207
+Utica-Rome, NY Metro Area	299397
+Valdosta, GA Metro Area	139588
+Vallejo-Fairfield, CA Metro Area	413344
+Victoria, TX Metro Area	94003
+Vineland-Bridgeton, NJ Metro Area	156898
+Virginia Beach-Norfolk-Newport News, VA-NC Metro Area	1676822
+Visalia-Porterville, CA Metro Area	442179
+Waco, TX Metro Area	252772
+Walla Walla, WA Metro Area	62859
+Warner Robins, GA Metro Area	179605
+Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	5636232
+Waterloo-Cedar Falls, IA Metro Area	167819
+Watertown-Fort Drum, NY Metro Area	116229
+Wausau, WI Metro Area	134063
+Weirton-Steubenville, WV-OH Metro Area	124454
+Wenatchee, WA Metro Area	110884
+Wheeling, WV-OH Metro Area	147950
+Wichita, KS Metro Area	630919
+Wichita Falls, TX Metro Area	151306
+Williamsport, PA Metro Area	116111
+Wilmington, NC Metro Area	254884
+Winchester, VA-WV Metro Area	128472
+Winston-Salem, NC Metro Area	640595
+Worcester, MA-CT Metro Area	916980
+Yakima, WA Metro Area	243231
+York-Hanover, PA Metro Area	434972
+Youngstown-Warren-Boardman, OH-PA Metro Area	565773
+Yuba City, CA Metro Area	166892
+Yuma, AZ Metro Area	195751
+Puerto Rico	3725789
+In metropolitan statistical area	3567524
+Aguadilla-Isabela, PR Metro Area	339441
+Arecibo, PR Metro Area	199471
+Guayama, PR Metro Area	84214
+Mayagüez, PR Metro Area	106330
+Ponce, PR Metro Area	350480
+San Germán, PR Metro Area	137462
+San Juan-Carolina-Caguas, PR Metro Area	2350126

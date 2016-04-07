@@ -1,0 +1,364 @@
+MSA	0-24 years
+Abilene, TX	37.5
+Akron, OH	33.1
+Albany, GA	36.9
+Albany-Schenectady-Troy, NY	32.3
+Albuquerque, NM	34.7
+Alexandria, LA	34.6
+Allentown-Bethlehem-Easton, PA-NJ	31.6
+Altoona, PA	29.5
+Amarillo, TX	37.3
+Ames, IA	46.2
+Anchorage, AK	36.4
+Anderson, IN	31.0
+Anderson, SC	31.8
+Ann Arbor, MI	38.1
+Anniston-Oxford, AL	33.2
+Appleton, WI	33.8
+Asheville, NC	29.0
+Athens-Clarke County, GA	41.6
+Atlanta-Sandy Springs-Marietta, GA	35.6
+Atlantic City-Hammonton, NJ	32.4
+Auburn-Opelika, AL	43.6
+Augusta-Richmond County, GA-SC	35.4
+Austin-Round Rock, TX	37.4
+Bakersfield, CA	40.8
+Baltimore-Towson, MD	33.4
+Bangor, ME	31.8
+Barnstable Town, MA	24.8
+Baton Rouge, LA	37.6
+Battle Creek, MI	33.2
+Bay City, MI	30.7
+Beaumont-Port Arthur, TX	34.1
+Bellingham, WA	35.2
+Bend, OR	29.9
+Billings, MT	32.5
+Binghamton, NY	32.3
+Birmingham-Hoover, AL	33.3
+Bismarck, ND	33.6
+Blacksburg-Christiansburg-Radford, VA	41.3
+Bloomington, IN	39.2
+Bloomington-Normal, IL	40.8
+Boise City-Nampa, ID	36.3
+Boston-Cambridge-Quincy, MA-NH	32.2
+Boulder, CO	34.3
+Bowling Green, KY	36.2
+Bradenton-Sarasota-Venice, FL	24.8
+Bremerton-Silverdale, WA	32.4
+Bridgeport-Stamford-Norwalk, CT	33.4
+Brownsville-Harlingen, TX	44.6
+Brunswick, GA	33.3
+Buffalo-Niagara Falls, NY	32.2
+Burlington, NC	33.8
+Burlington-South Burlington, VT	33.6
+Canton-Massillon, OH	31.2
+Cape Coral-Fort Myers, FL	27.5
+Carson City, NV	31.1
+Casper, WY	34.1
+Cedar Rapids, IA	33.5
+Champaign-Urbana, IL	42.5
+Charleston, WV	29.1
+Charleston-North Charleston-Summerville, SC	35.1
+Charlotte-Gastonia-Concord, NC-SC	35.0
+Charlottesville, VA	34.9
+Chattanooga, TN-GA	31.7
+Cheyenne, WY	34.4
+Chicago-Naperville-Joliet, IL-IN-WI	35.4
+Chico, CA	36.1
+Cincinnati-Middletown, OH-KY-IN	34.4
+Clarksville, TN-KY	39.0
+Cleveland, TN	31.8
+Cleveland-Elyria-Mentor, OH	32.0
+Coeur d'Alene, ID	32.9
+College Station-Bryan, TX	48.2
+Colorado Springs, CO	35.4
+Columbia, MO	40.1
+Columbia, SC	35.4
+Columbus, GA-AL	36.9
+Columbus, IN	32.7
+Columbus, OH	35.3
+Corpus Christi, TX	36.9
+Corvallis, OR	38.3
+Cumberland, MD-WV	30.6
+Dallas-Fort Worth-Arlington, TX	36.9
+Dalton, GA	37.0
+Danville, IL	32.1
+Danville, VA	29.2
+Davenport-Moline-Rock Island, IA-IL	33.2
+Dayton, OH	33.3
+Decatur, AL	31.6
+Decatur, IL	33.0
+Deltona-Daytona Beach-Ormond Beach, FL	28.4
+Denver-Aurora, CO	33.7
+Des Moines-West Des Moines, IA	34.7
+Detroit-Warren-Livonia, MI	33.1
+Dothan, AL	32.0
+Dover, DE	35.3
+Dubuque, IA	34.7
+Duluth, MN-WI	32.4
+Durham, NC	35.1
+Eau Claire, WI	35.4
+El Centro, CA	41.8
+Elizabethtown, KY	35.2
+Elkhart-Goshen, IN	36.1
+Elmira, NY	31.5
+El Paso, TX	42.3
+Erie, PA	34.1
+Eugene-Springfield, OR	31.4
+Evansville, IN-KY	32.8
+Fairbanks, AK	40.6
+Fargo, ND-MN	38.3
+Farmington, NM	38.1
+Fayetteville, NC	40.0
+Fayetteville-Springdale-Rogers, AR-MO	37.3
+Flagstaff, AZ	40.2
+Flint, MI	33.7
+Florence, SC	33.8
+Florence-Muscle Shoals, AL	31.1
+Fond du Lac, WI	31.9
+Fort Collins-Loveland, CO	34.8
+Fort Smith, AR-OK	33.9
+Fort Walton Beach-Crestview-Destin, FL	32.3
+Fort Wayne, IN	35.1
+Fresno, CA	41.2
+Gadsden, AL	31.2
+Gainesville, FL	41.0
+Gainesville, GA	37.1
+Glens Falls, NY	29.2
+Goldsboro, NC	34.8
+Grand Forks, ND-MN	40.2
+Grand Junction, CO	32.2
+Grand Rapids-Wyoming, MI	35.9
+Great Falls, MT	32.6
+Greeley, CO	38.6
+Green Bay, WI	33.3
+Greensboro-High Point, NC	33.0
+Greenville, NC	39.1
+Greenville-Mauldin-Easley, SC	33.8
+Gulfport-Biloxi, MS	35.5
+Hagerstown-Martinsburg, MD-WV	31.4
+Hanford-Corcoran, CA	39.3
+Harrisburg-Carlisle, PA	31.1
+Harrisonburg, VA	39.9
+Hartford-West Hartford-East Hartford, CT	32.3
+Hattiesburg, MS	40.0
+Hickory-Lenoir-Morganton, NC	30.6
+Hinesville-Fort Stewart, GA	44.8
+Holland-Grand Haven, MI	37.9
+Honolulu, HI	32.2
+Hot Springs, AR	28.8
+Houma-Bayou Cane-Thibodaux, LA	35.2
+Houston-Sugar Land-Baytown, TX	37.6
+Huntington-Ashland, WV-KY-OH	30.8
+Huntsville, AL	34.0
+Idaho Falls, ID	39.7
+Indianapolis-Carmel, IN	34.9
+Iowa City, IA	40.4
+Ithaca, NY	43.1
+Jackson, MI	32.2
+Jackson, MS	37.2
+Jackson, TN	35.1
+Jacksonville, FL	33.4
+Jacksonville, NC	48.5
+Janesville, WI	33.0
+Jefferson City, MO	33.2
+Johnson City, TN	29.8
+Johnstown, PA	29.1
+Jonesboro, AR	35.5
+Joplin, MO	34.5
+Kalamazoo-Portage, MI	36.7
+Kankakee-Bradley, IL	35.7
+Kansas City, MO-KS	34.1
+Kennewick-Pasco-Richland, WA	37.7
+Killeen-Temple-Fort Hood, TX	40.6
+Kingsport-Bristol-Bristol, TN-VA	27.7
+Kingston, NY	31.1
+Knoxville, TN	31.7
+Kokomo, IN	31.1
+La Crosse, WI-MN	35.4
+Lafayette, IN	42.5
+Lafayette, LA	36.9
+Lake Charles, LA	35.4
+Lake Havasu City-Kingman, AZ	28.6
+Lakeland-Winter Haven, FL	32.5
+Lancaster, PA	33.6
+Lansing-East Lansing, MI	37.4
+Laredo, TX	48.5
+Las Cruces, NM	40.7
+Las Vegas-Paradise, NV	34.3
+Lawrence, KS	41.9
+Lawton, OK	41.2
+Lebanon, PA	30.4
+Lewiston, ID-WA	31.1
+Lewiston-Auburn, ME	31.0
+Lexington-Fayette, KY	34.3
+Lima, OH	33.6
+Lincoln, NE	37.8
+Little Rock-North Little Rock-Conway, AR	34.6
+Logan, UT-ID	49.3
+Longview, TX	34.4
+Longview, WA	32.7
+Los Angeles-Long Beach-Santa Ana, CA	36.1
+Louisville-Jefferson County, KY-IN	32.3
+Lubbock, TX	40.5
+Lynchburg, VA	32.5
+Macon, GA	35.4
+Madera, CA	38.0
+Madison, WI	34.4
+Manchester-Nashua, NH	32.4
+Mansfield, OH	30.8
+McAllen-Edinburg-Mission, TX	46.5
+Medford, OR	30.3
+Memphis, TN-MS-AR	36.6
+Merced, CA	42.5
+Miami-Fort Lauderdale-Pompano Beach, FL	31.0
+Michigan City-La Porte, IN	31.3
+Midland, TX	38.2
+Milwaukee-Waukesha-West Allis, WI	34.3
+Minneapolis-St. Paul-Bloomington, MN-WI	34.2
+Missoula, MT	34.5
+Mobile, AL	35.7
+Modesto, CA	38.9
+Monroe, LA	37.2
+Monroe, MI	32.3
+Montgomery, AL	36.3
+Morgantown, WV	37.8
+Morristown, TN	30.7
+Mount Vernon-Anacortes, WA	32.2
+Muncie, IN	37.3
+Muskegon-Norton Shores, MI	33.9
+Myrtle Beach-North Myrtle Beach-Conway, SC	29.1
+Napa, CA	32.0
+Naples-Marco Island, FL	26.5
+Nashville-Davidson--Murfreesboro--Franklin, TN	33.8
+New Haven-Milford, CT	32.9
+New Orleans-Metairie-Kenner, LA	34.1
+New York-Northern New Jersey-Long Island, NY-NJ-PA	32.6
+Niles-Benton Harbor, MI	32.9
+Norwich-New London, CT	31.6
+Ocala, FL	27.4
+Ocean City, NJ	27.9
+Odessa, TX	40.3
+Ogden-Clearfield, UT	42.1
+Oklahoma City, OK	35.7
+Olympia, WA	31.5
+Omaha-Council Bluffs, NE-IA	36.3
+Orlando-Kissimee, FL	32.9
+Oshkosh-Neenah, WI	32.8
+Owensboro, KY	32.8
+Oxnard-Thousand Oaks-Ventura, CA	36.2
+Palm Bay-Melbourne-Titusville, FL	28.1
+Palm Coast, FL	25.8
+Panama City-Lynn Haven, FL	30.9
+Parkersburg-Marietta-Vienna, WV-OH	29.3
+Pascagoula, MS	35.6
+Pensacola-Ferry Pass-Brent, FL	33.4
+Peoria, IL	33.3
+Philadelphia-Camden-Wilmington, PA-NJ-DE-MD	33.6
+Phoenix-Mesa-Scottsdale, AZ	36.1
+Pine Bluff, AR	34.2
+Pittsburgh, PA	29.7
+Pittsfield, MA	29.6
+Pocatello, ID	40.8
+Portland-South Portland-Biddeford, ME	29.7
+Portland-Vancouver-Beaverton, OR-WA	32.3
+Port St. Lucie, FL	28.5
+Poughkeepsie-Newburgh-Middletown, NY	35.4
+Prescott, AZ	27.7
+Providence-New Bedford-Fall River, RI-MA	32.3
+Provo-Orem, UT	50.9
+Pueblo, CO	33.6
+Punta Gorda, FL	22.2
+Racine, WI	33.5
+Raleigh-Cary, NC	35.8
+Rapid City, SD	35.0
+Reading, PA	33.1
+Redding, CA	32.0
+Reno-Sparks, NV	33.4
+Richmond, VA	33.3
+Riverside-San Bernardino-Ontario, CA	39.3
+Roanoke, VA	29.7
+Rochester, MN	33.5
+Rochester, NY	33.9
+Rockford, IL	33.8
+Rocky Mount, NC	33.3
+Rome, GA	34.6
+Sacramento--Arden-Arcade--Roseville, CA	34.9
+Saginaw-Saginaw Township North, MI	33.9
+St. Cloud, MN	37.1
+St. George, UT	38.6
+St. Joseph, MO-KS	32.7
+St. Louis, MO-IL	33.5
+Salem, OR	35.3
+Salinas, CA	38.6
+Salisbury, MD	34.8
+Salt Lake City, UT	39.9
+San Angelo, TX	38.1
+San Antonio, TX	37.9
+San Diego-Carlsbad-San Marcos, CA	36.6
+Sandusky, OH	29.7
+San Francisco-Oakland-Fremont, CA	30.5
+San Jose-Sunnyvale-Santa Clara, CA	33.6
+San Luis Obispo-Paso Robles, CA	34.1
+Santa Barbara-Santa Maria-Goleta, CA	38.3
+Santa Cruz-Watsonville, CA	34.7
+Santa Fe, NM	29.5
+Santa Rosa-Petaluma, CA	32.3
+Savannah, GA	36.8
+Scranton--Wilkes-Barre, PA	29.8
+Seattle-Tacoma-Bellevue, WA	31.8
+Sebastian-Vero Beach, FL	26.4
+Sheboygan, WI	31.5
+Sherman-Denison, TX	33.3
+Shreveport-Bossier City, LA	35.8
+Sioux City, IA-NE-SD	36.2
+Sioux Falls, SD	34.7
+South Bend-Mishawaka, IN-MI	35.9
+Spartanburg, SC	32.7
+Spokane, WA	33.8
+Springfield, IL	31.6
+Springfield, MA	34.5
+Springfield, MO	34.6
+Springfield, OH	32.0
+State College, PA	43.9
+Stockton, CA	39.1
+Sumter, SC	36.3
+Syracuse, NY	34.4
+Tallahassee, FL	38.1
+Tampa-St. Petersburg-Clearwater, FL	29.7
+Terre Haute, IN	33.8
+Texarkana, TX-Texarkana, AR	32.8
+Toledo, OH	35.2
+Topeka, KS	32.9
+Trenton-Ewing, NJ	33.9
+Tucson, AZ	33.9
+Tulsa, OK	34.7
+Tuscaloosa, AL	37.9
+Tyler, TX	35.5
+Utica-Rome, NY	31.1
+Valdosta, GA	39.0
+Vallejo-Fairfield, CA	35.3
+Victoria, TX	36.2
+Vineland-Millville-Bridgeton, NJ	33.0
+Virginia Beach-Norfolk-Newport News, VA-NC	36.0
+Visalia-Porterville, CA	42.8
+Waco, TX	40.0
+Warner Robins, GA	36.6
+Washington-Arlington-Alexandria, DC-VA-MD-WV	33.6
+Waterloo-Cedar Falls, IA	36.5
+Wausau, WI	32.0
+Weirton-Steubenville, WV-OH	28.3
+Wenatchee, WA	34.2
+Wheeling, WV-OH	28.8
+Wichita, KS	36.4
+Wichita Falls, TX	37.5
+Williamsport, PA	31.4
+Wilmington, NC	31.0
+Winchester, VA-WV	31.9
+Winston-Salem, NC	32.8
+Worcester, MA	33.3
+Yakima, WA	39.7
+York-Hanover, PA	30.8
+Youngstown-Warren-Boardman, OH-PA	30.4
+Yuba City, CA	37.7
+Yuma, AZ	38.3

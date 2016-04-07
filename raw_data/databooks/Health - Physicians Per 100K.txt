@@ -1,0 +1,364 @@
+MSA	Physicians per 100,000
+Abilene, TX	201
+Akron, OH	288
+Albany, GA	220
+Albany-Schenectady-Troy, NY	364
+Albuquerque, NM	395
+Alexandria, LA	297
+Allentown-Bethlehem-Easton, PA-NJ	277
+Altoona, PA	272
+Amarillo, TX	290
+Ames, IA	224
+Anchorage, AK	319
+Anderson, IN	148
+Anderson, SC	215
+Ann Arbor, MI	1,115
+Anniston-Oxford, AL	200
+Appleton, WI	203
+Asheville, NC	408
+Athens-Clarke County, GA	252
+Atlanta-Sandy Springs-Marietta, GA	259
+Atlantic City-Hammonton, NJ	255
+Auburn-Opelika, AL	159
+Augusta-Richmond County, GA-SC	415
+Austin-Round Rock, TX	244
+Bakersfield, CA	155
+Baltimore-Towson, MD	511
+Bangor, ME	374
+Barnstable Town, MA	383
+Baton Rouge, LA	244
+Battle Creek, MI	190
+Bay City, MI	145
+Beaumont-Port Arthur, TX	180
+Bellingham, WA	301
+Bend, OR	352
+Billings, MT	391
+Binghamton, NY	281
+Birmingham-Hoover, AL	419
+Bismarck, ND	351
+Blacksburg-Christiansburg-Radford, VA	194
+Bloomington, IN	212
+Bloomington-Normal, IL	225
+Boise City-Nampa, ID	234
+Boston-Cambridge-Quincy, MA-NH	591
+Boulder, CO	400
+Bowling Green, KY	250
+Bradenton-Sarasota-Venice, FL	364
+Bremerton-Silverdale, WA	282
+Bridgeport-Stamford-Norwalk, CT	432
+Brownsville-Harlingen, TX	148
+Brunswick, GA	270
+Buffalo-Niagara Falls, NY	373
+Burlington, NC	175
+Burlington-South Burlington, VT	676
+Canton-Massillon, OH	236
+Cape Coral-Fort Myers, FL	267
+Carson City, NV	280
+Casper, WY	286
+Cedar Rapids, IA	185
+Champaign-Urbana, IL	319
+Charleston, WV	333
+Charleston-North Charleston-Summerville, SC	478
+Charlotte-Gastonia-Concord, NC-SC	255
+Charlottesville, VA	1,110
+Chattanooga, TN-GA	298
+Cheyenne, WY	301
+Chicago-Naperville-Joliet, IL-IN-WI	349
+Chico, CA	244
+Cincinnati-Middletown, OH-KY-IN	328
+Clarksville, TN-KY	142
+Cleveland, TN	154
+Cleveland-Elyria-Mentor, OH	476
+Coeur d'Alene, ID	267
+College Station-Bryan, TX	226
+Colorado Springs, CO	242
+Columbia, MO	795
+Columbia, SC	309
+Columbus, GA-AL	253
+Columbus, IN	260
+Columbus, OH	321
+Corpus Christi, TX	256
+Corvallis, OR	371
+Cumberland, MD-WV	248
+Dallas-Fort Worth-Arlington, TX	230
+Dalton, GA	158
+Danville, IL	182
+Danville, VA	158
+Davenport-Moline-Rock Island, IA-IL	206
+Dayton, OH	307
+Decatur, AL	158
+Decatur, IL	265
+Deltona-Daytona Beach-Ormond Beach, FL	223
+Denver-Aurora, CO	344
+Des Moines-West Des Moines, IA	214
+Detroit-Warren-Livonia, MI	313
+Dothan, AL	272
+Dover, DE	167
+Dubuque, IA	278
+Duluth, MN-WI	316
+Durham, NC	1,109
+Eau Claire, WI	350
+El Centro, CA	92
+Elizabethtown, KY	204
+Elkhart-Goshen, IN	152
+Elmira, NY	293
+El Paso, TX	199
+Erie, PA	216
+Eugene-Springfield, OR	299
+Evansville, IN-KY	270
+Fairbanks, AK	205
+Fargo, ND-MN	360
+Farmington, NM	155
+Fayetteville, NC	226
+Fayetteville-Springdale-Rogers, AR-MO	185
+Flagstaff, AZ	281
+Flint, MI	237
+Florence, SC	254
+Florence-Muscle Shoals, AL	201
+Fond du Lac, WI	199
+Fort Collins-Loveland, CO	269
+Fort Smith, AR-OK	174
+Fort Walton Beach-Crestview-Destin, FL	306
+Fort Wayne, IN	261
+Fresno, CA	225
+Gadsden, AL	210
+Gainesville, FL	867
+Gainesville, GA	230
+Glens Falls, NY	233
+Goldsboro, NC	185
+Grand Forks, ND-MN	300
+Grand Junction, CO	305
+Grand Rapids-Wyoming, MI	260
+Great Falls, MT	300
+Greeley, CO	156
+Green Bay, WI	229
+Greensboro-High Point, NC	231
+Greenville, NC	599
+Greenville-Mauldin-Easley, SC	275
+Gulfport-Biloxi, MS	234
+Hagerstown-Martinsburg, MD-WV	191
+Hanford-Corcoran, CA	99
+Harrisburg-Carlisle, PA	408
+Harrisonburg, VA	236
+Hartford-West Hartford-East Hartford, CT	395
+Hattiesburg, MS	333
+Hickory-Lenoir-Morganton, NC	204
+Hinesville-Fort Stewart, GA	78
+Holland-Grand Haven, MI	150
+Honolulu, HI	413
+Hot Springs, AR	315
+Houma-Bayou Cane-Thibodaux, LA	188
+Houston-Sugar Land-Baytown, TX	297
+Huntington-Ashland, WV-KY-OH	364
+Huntsville, AL	251
+Idaho Falls, ID	186
+Indianapolis-Carmel, IN	402
+Iowa City, IA	1,305
+Ithaca, NY	301
+Jackson, MI	133
+Jackson, MS	431
+Jackson, TN	405
+Jacksonville, FL	325
+Jacksonville, NC	149
+Janesville, WI	218
+Jefferson City, MO	147
+Johnson City, TN	518
+Johnstown, PA	300
+Jonesboro, AR	274
+Joplin, MO	182
+Kalamazoo-Portage, MI	347
+Kankakee-Bradley, IL	169
+Kansas City, MO-KS	296
+Kennewick-Pasco-Richland, WA	190
+Killeen-Temple-Fort Hood, TX	326
+Kingsport-Bristol-Bristol, TN-VA	286
+Kingston, NY	218
+Knoxville, TN	366
+Kokomo, IN	174
+La Crosse, WI-MN	487
+Lafayette, IN	231
+Lafayette, LA	318
+Lake Charles, LA	219
+Lake Havasu City-Kingman, AZ	131
+Lakeland-Winter Haven, FL	180
+Lancaster, PA	205
+Lansing-East Lansing, MI	247
+Laredo, TX	105
+Las Cruces, NM	175
+Las Vegas-Paradise, NV	210
+Lawrence, KS	215
+Lawton, OK	215
+Lebanon, PA	258
+Lewiston, ID-WA	247
+Lewiston-Auburn, ME	280
+Lexington-Fayette, KY	553
+Lima, OH	280
+Lincoln, NE	272
+Little Rock-North Little Rock-Conway, AR	457
+Logan, UT-ID	151
+Longview, TX	184
+Longview, WA	228
+Los Angeles-Long Beach-Santa Ana, CA	328
+Louisville-Jefferson County, KY-IN	355
+Lubbock, TX	406
+Lynchburg, VA	218
+Macon, GA	382
+Madera, CA	113
+Madison, WI	542
+Manchester-Nashua, NH	258
+Mansfield, OH	187
+McAllen-Edinburg-Mission, TX	123
+Medford, OR	330
+Memphis, TN-MS-AR	306
+Merced, CA	109
+Miami-Fort Lauderdale-Pompano Beach, FL	359
+Michigan City-La Porte, IN	164
+Midland, TX	204
+Milwaukee-Waukesha-West Allis, WI	399
+Minneapolis-St. Paul-Bloomington, MN-WI	326
+Missoula, MT	398
+Mobile, AL	304
+Modesto, CA	189
+Monroe, LA	266
+Monroe, MI	96
+Montgomery, AL	213
+Morgantown, WV	809
+Morristown, TN	150
+Mount Vernon-Anacortes, WA	291
+Muncie, IN	301
+Muskegon-Norton Shores, MI	172
+Myrtle Beach-North Myrtle Beach-Conway, SC	187
+Napa, CA	435
+Naples-Marco Island, FL	417
+Nashville-Davidson--Murfreesboro--Franklin, TN	388
+New Haven-Milford, CT	573
+New Orleans-Metairie-Kenner, LA	476
+New York-Northern New Jersey-Long Island, NY-NJ-PA	467
+Niles-Benton Harbor, MI	213
+Norwich-New London, CT	281
+Ocala, FL	188
+Ocean City, NJ	159
+Odessa, TX	205
+Ogden-Clearfield, UT	174
+Oklahoma City, OK	300
+Olympia, WA	305
+Omaha-Council Bluffs, NE-IA	391
+Orlando-Kissimee, FL	237
+Oshkosh-Neenah, WI	293
+Owensboro, KY	195
+Oxnard-Thousand Oaks-Ventura, CA	264
+Palm Bay-Melbourne-Titusville, FL	260
+Palm Coast, FL	176
+Panama City-Lynn Haven, FL	238
+Parkersburg-Marietta-Vienna, WV-OH	195
+Pascagoula, MS	215
+Pensacola-Ferry Pass-Brent, FL	290
+Peoria, IL	319
+Philadelphia-Camden-Wilmington, PA-NJ-DE-MD	425
+Phoenix-Mesa-Scottsdale, AZ	242
+Pine Bluff, AR	190
+Pittsburgh, PA	415
+Pittsfield, MA	459
+Pocatello, ID	234
+Portland-South Portland-Biddeford, ME	395
+Portland-Vancouver-Beaverton, OR-WA	369
+Port St. Lucie, FL	224
+Poughkeepsie-Newburgh-Middletown, NY	265
+Prescott, AZ	244
+Providence-New Bedford-Fall River, RI-MA	338
+Provo-Orem, UT	135
+Pueblo, CO	283
+Punta Gorda, FL	283
+Racine, WI	177
+Raleigh-Cary, NC	244
+Rapid City, SD	342
+Reading, PA	205
+Redding, CA	284
+Reno-Sparks, NV	323
+Richmond, VA	367
+Riverside-San Bernardino-Ontario, CA	171
+Roanoke, VA	413
+Rochester, MN	1,871
+Rochester, NY	419
+Rockford, IL	257
+Rocky Mount, NC	148
+Rome, GA	391
+Sacramento--Arden-Arcade--Roseville, CA	317
+Saginaw-Saginaw Township North, MI	290
+St. Cloud, MN	269
+St. George, UT	197
+St. Joseph, MO-KS	161
+St. Louis, MO-IL	348
+Salem, OR	201
+Salinas, CA	251
+Salisbury, MD	299
+Salt Lake City, UT	360
+San Angelo, TX	233
+San Antonio, TX	336
+San Diego-Carlsbad-San Marcos, CA	372
+Sandusky, OH	192
+San Francisco-Oakland-Fremont, CA	476
+San Jose-Sunnyvale-Santa Clara, CA	415
+San Luis Obispo-Paso Robles, CA	343
+Santa Barbara-Santa Maria-Goleta, CA	348
+Santa Cruz-Watsonville, CA	323
+Santa Fe, NM	424
+Santa Rosa-Petaluma, CA	333
+Savannah, GA	343
+Scranton--Wilkes-Barre, PA	252
+Seattle-Tacoma-Bellevue, WA	390
+Sebastian-Vero Beach, FL	340
+Sheboygan, WI	187
+Sherman-Denison, TX	207
+Shreveport-Bossier City, LA	474
+Sioux City, IA-NE-SD	192
+Sioux Falls, SD	387
+South Bend-Mishawaka, IN-MI	250
+Spartanburg, SC	245
+Spokane, WA	329
+Springfield, IL	539
+Springfield, MA	325
+Springfield, MO	251
+Springfield, OH	177
+State College, PA	232
+Stockton, CA	170
+Sumter, SC	162
+Syracuse, NY	398
+Tallahassee, FL	252
+Tampa-St. Petersburg-Clearwater, FL	307
+Terre Haute, IN	218
+Texarkana, TX-Texarkana, AR	252
+Toledo, OH	343
+Topeka, KS	252
+Trenton-Ewing, NJ	432
+Tucson, AZ	374
+Tulsa, OK	222
+Tuscaloosa, AL	264
+Tyler, TX	401
+Utica-Rome, NY	224
+Valdosta, GA	184
+Vallejo-Fairfield, CA	230
+Victoria, TX	205
+Vineland-Millville-Bridgeton, NJ	142
+Virginia Beach-Norfolk-Newport News, VA-NC	314
+Visalia-Porterville, CA	128
+Waco, TX	232
+Warner Robins, GA	156
+Washington-Arlington-Alexandria, DC-VA-MD-WV	453
+Waterloo-Cedar Falls, IA	221
+Wausau, WI	301
+Weirton-Steubenville, WV-OH	147
+Wenatchee, WA	271
+Wheeling, WV-OH	269
+Wichita, KS	268
+Wichita Falls, TX	247
+Williamsport, PA	229
+Wilmington, NC	296
+Winchester, VA-WV	316
+Winston-Salem, NC	495
+Worcester, MA	374
+Yakima, WA	201
+York-Hanover, PA	202
+Youngstown-Warren-Boardman, OH-PA	230
+Yuba City, CA	164
+Yuma, AZ	129

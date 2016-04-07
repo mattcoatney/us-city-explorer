@@ -1,0 +1,364 @@
+MSA	White alone
+Abilene, TX	89.0
+Akron, OH	84.8
+Albany, GA	48.0
+Albany-Schenectady-Troy, NY	87.6
+Albuquerque, NM	85.8
+Alexandria, LA	68.5
+Allentown-Bethlehem-Easton, PA-NJ	91.4
+Altoona, PA	97.0
+Amarillo, TX	89.3
+Ames, IA	90.6
+Anchorage, AK	75.6
+Anderson, IN	89.8
+Anderson, SC	81.4
+Ann Arbor, MI	76.9
+Anniston-Oxford, AL	77.9
+Appleton, WI	94.5
+Asheville, NC	92.5
+Athens-Clarke County, GA	76.9
+Atlanta-Sandy Springs-Marietta, GA	62.4
+Atlantic City-Hammonton, NJ	73.7
+Auburn-Opelika, AL	73.8
+Augusta-Richmond County, GA-SC	60.9
+Austin-Round Rock, TX	85.1
+Bakersfield, CA	85.4
+Baltimore-Towson, MD	65.4
+Bangor, ME	96.3
+Barnstable Town, MA	94.9
+Baton Rouge, LA	61.8
+Battle Creek, MI	85.1
+Bay City, MI	95.8
+Beaumont-Port Arthur, TX	71.2
+Bellingham, WA	89.9
+Bend, OR	95.1
+Billings, MT	92.1
+Binghamton, NY	91.5
+Birmingham-Hoover, AL	69.6
+Bismarck, ND	93.8
+Blacksburg-Christiansburg-Radford, VA	90.7
+Bloomington, IN	92.6
+Bloomington-Normal, IL	88.1
+Boise City-Nampa, ID	93.8
+Boston-Cambridge-Quincy, MA-NH	84.4
+Boulder, CO	92.5
+Bowling Green, KY	89.3
+Bradenton-Sarasota-Venice, FL	90.5
+Bremerton-Silverdale, WA	85.8
+Bridgeport-Stamford-Norwalk, CT	83.3
+Brownsville-Harlingen, TX	96.9
+Brunswick, GA	74.5
+Buffalo-Niagara Falls, NY	84.0
+Burlington, NC	78.5
+Burlington-South Burlington, VT	94.7
+Canton-Massillon, OH	90.6
+Cape Coral-Fort Myers, FL	89.0
+Carson City, NV	91.2
+Casper, WY	95.1
+Cedar Rapids, IA	93.3
+Champaign-Urbana, IL	80.8
+Charleston, WV	92.4
+Charleston-North Charleston-Summerville, SC	67.8
+Charlotte-Gastonia-Concord, NC-SC	72.1
+Charlottesville, VA	81.6
+Chattanooga, TN-GA	83.3
+Cheyenne, WY	90.7
+Chicago-Naperville-Joliet, IL-IN-WI	75.0
+Chico, CA	88.8
+Cincinnati-Middletown, OH-KY-IN	84.7
+Clarksville, TN-KY	76.8
+Cleveland, TN	93.8
+Cleveland-Elyria-Mentor, OH	76.8
+Coeur d'Alene, ID	95.6
+College Station-Bryan, TX	82.6
+Colorado Springs, CO	85.5
+Columbia, MO	86.1
+Columbia, SC	63.0
+Columbus, GA-AL	54.4
+Columbus, IN	93.6
+Columbus, OH	80.7
+Corpus Christi, TX	92.5
+Corvallis, OR	89.8
+Cumberland, MD-WV	92.8
+Dallas-Fort Worth-Arlington, TX	78.4
+Dalton, GA	94.5
+Danville, IL	85.8
+Danville, VA	65.8
+Davenport-Moline-Rock Island, IA-IL	89.9
+Dayton, OH	82.0
+Decatur, AL	83.9
+Decatur, IL	82.2
+Deltona-Daytona Beach-Ormond Beach, FL	86.3
+Denver-Aurora, CO	87.6
+Des Moines-West Des Moines, IA	91.3
+Detroit-Warren-Livonia, MI	72.0
+Dothan, AL	74.5
+Dover, DE	72.4
+Dubuque, IA	96.3
+Duluth, MN-WI	94.0
+Durham, NC	66.8
+Eau Claire, WI	95.8
+El Centro, CA	89.9
+Elizabethtown, KY	85.4
+Elkhart-Goshen, IN	91.3
+Elmira, NY	90.5
+El Paso, TX	92.6
+Erie, PA	91.0
+Eugene-Springfield, OR	91.7
+Evansville, IN-KY	91.8
+Fairbanks, AK	80.0
+Fargo, ND-MN	94.1
+Farmington, NM	59.1
+Fayetteville, NC	55.8
+Fayetteville-Springdale-Rogers, AR-MO	91.3
+Flagstaff, AZ	66.1
+Flint, MI	77.0
+Florence, SC	57.0
+Florence-Muscle Shoals, AL	85.8
+Fond du Lac, WI	96.4
+Fort Collins-Loveland, CO	94.5
+Fort Smith, AR-OK	84.5
+Fort Walton Beach-Crestview-Destin, FL	83.4
+Fort Wayne, IN	86.2
+Fresno, CA	81.2
+Gadsden, AL	83.4
+Gainesville, FL	74.9
+Gainesville, GA	89.8
+Glens Falls, NY	96.0
+Goldsboro, NC	64.8
+Grand Forks, ND-MN	94.0
+Grand Junction, CO	95.6
+Grand Rapids-Wyoming, MI	88.2
+Great Falls, MT	90.6
+Greeley, CO	95.1
+Green Bay, WI	93.1
+Greensboro-High Point, NC	71.0
+Greenville, NC	63.2
+Greenville-Mauldin-Easley, SC	79.7
+Gulfport-Biloxi, MS	75.0
+Hagerstown-Martinsburg, MD-WV	89.3
+Hanford-Corcoran, CA	84.0
+Harrisburg-Carlisle, PA	86.0
+Harrisonburg, VA	93.1
+Hartford-West Hartford-East Hartford, CT	83.7
+Hattiesburg, MS	70.5
+Hickory-Lenoir-Morganton, NC	89.2
+Hinesville-Fort Stewart, GA	54.5
+Holland-Grand Haven, MI	94.7
+Honolulu, HI	25.7
+Hot Springs, AR	88.9
+Houma-Bayou Cane-Thibodaux, LA	77.5
+Houston-Sugar Land-Baytown, TX	75.0
+Huntington-Ashland, WV-KY-OH	95.4
+Huntsville, AL	73.6
+Idaho Falls, ID	96.6
+Indianapolis-Carmel, IN	81.8
+Iowa City, IA	90.7
+Ithaca, NY	83.5
+Jackson, MI	89.2
+Jackson, MS	51.4
+Jackson, TN	67.5
+Jacksonville, FL	72.5
+Jacksonville, NC	76.8
+Janesville, WI	92.7
+Jefferson City, MO	90.0
+Johnson City, TN	95.0
+Johnstown, PA	95.0
+Jonesboro, AR	87.4
+Joplin, MO	93.5
+Kalamazoo-Portage, MI	86.8
+Kankakee-Bradley, IL	82.9
+Kansas City, MO-KS	83.4
+Kennewick-Pasco-Richland, WA	93.1
+Killeen-Temple-Fort Hood, TX	72.1
+Kingsport-Bristol-Bristol, TN-VA	96.3
+Kingston, NY	89.8
+Knoxville, TN	90.3
+Kokomo, IN	91.4
+La Crosse, WI-MN	94.6
+Lafayette, IN	90.9
+Lafayette, LA	70.8
+Lake Charles, LA	73.9
+Lake Havasu City-Kingman, AZ	92.9
+Lakeland-Winter Haven, FL	82.2
+Lancaster, PA	93.2
+Lansing-East Lansing, MI	85.8
+Laredo, TX	97.7
+Las Cruces, NM	92.7
+Las Vegas-Paradise, NV	77.7
+Lawrence, KS	87.0
+Lawton, OK	70.0
+Lebanon, PA	96.0
+Lewiston, ID-WA	92.5
+Lewiston-Auburn, ME	95.7
+Lexington-Fayette, KY	85.8
+Lima, OH	85.6
+Lincoln, NE	91.3
+Little Rock-North Little Rock-Conway, AR	74.1
+Logan, UT-ID	95.6
+Longview, TX	79.7
+Longview, WA	93.6
+Los Angeles-Long Beach-Santa Ana, CA	75.1
+Louisville-Jefferson County, KY-IN	83.5
+Lubbock, TX	89.2
+Lynchburg, VA	79.7
+Macon, GA	55.1
+Madera, CA	87.6
+Madison, WI	90.0
+Manchester-Nashua, NH	93.2
+Mansfield, OH	88.0
+McAllen-Edinburg-Mission, TX	96.7
+Medford, OR	94.3
+Memphis, TN-MS-AR	51.3
+Merced, CA	85.0
+Miami-Fort Lauderdale-Pompano Beach, FL	75.2
+Michigan City-La Porte, IN	87.1
+Midland, TX	90.1
+Milwaukee-Waukesha-West Allis, WI	78.8
+Minneapolis-St. Paul-Bloomington, MN-WI	85.6
+Missoula, MT	93.5
+Mobile, AL	61.9
+Modesto, CA	86.8
+Monroe, LA	64.2
+Monroe, MI	95.3
+Montgomery, AL	54.9
+Morgantown, WV	93.9
+Morristown, TN	95.1
+Mount Vernon-Anacortes, WA	93.0
+Muncie, IN	90.6
+Muskegon-Norton Shores, MI	83.3
+Myrtle Beach-North Myrtle Beach-Conway, SC	83.1
+Napa, CA	88.1
+Naples-Marco Island, FL	92.0
+Nashville-Davidson--Murfreesboro--Franklin, TN	80.7
+New Haven-Milford, CT	81.6
+New Orleans-Metairie-Kenner, LA	61.6
+New York-Northern New Jersey-Long Island, NY-NJ-PA	68.9
+Niles-Benton Harbor, MI	81.9
+Norwich-New London, CT	86.5
+Ocala, FL	85.1
+Ocean City, NJ	92.6
+Odessa, TX	92.2
+Ogden-Clearfield, UT	94.2
+Oklahoma City, OK	79.0
+Olympia, WA	86.2
+Omaha-Council Bluffs, NE-IA	87.8
+Orlando-Kissimee, FL	77.9
+Oshkosh-Neenah, WI	95.1
+Owensboro, KY	93.9
+Oxnard-Thousand Oaks-Ventura, CA	87.3
+Palm Bay-Melbourne-Titusville, FL	85.6
+Palm Coast, FL	85.6
+Panama City-Lynn Haven, FL	83.3
+Parkersburg-Marietta-Vienna, WV-OH	97.0
+Pascagoula, MS	76.2
+Pensacola-Ferry Pass-Brent, FL	77.3
+Peoria, IL	87.9
+Philadelphia-Camden-Wilmington, PA-NJ-DE-MD	72.9
+Phoenix-Mesa-Scottsdale, AZ	87.7
+Pine Bluff, AR	50.7
+Pittsburgh, PA	88.8
+Pittsfield, MA	94.3
+Pocatello, ID	92.8
+Portland-South Portland-Biddeford, ME	95.7
+Portland-Vancouver-Beaverton, OR-WA	87.5
+Port St. Lucie, FL	82.7
+Poughkeepsie-Newburgh-Middletown, NY	84.5
+Prescott, AZ	94.7
+Providence-New Bedford-Fall River, RI-MA	89.9
+Provo-Orem, UT	94.9
+Pueblo, CO	92.9
+Punta Gorda, FL	91.3
+Racine, WI	86.6
+Raleigh-Cary, NC	74.1
+Rapid City, SD	87.9
+Reading, PA	92.0
+Redding, CA	90.2
+Reno-Sparks, NV	87.5
+Richmond, VA	65.4
+Riverside-San Bernardino-Ontario, CA	82.0
+Roanoke, VA	84.5
+Rochester, MN	91.4
+Rochester, NY	84.4
+Rockford, IL	86.0
+Rocky Mount, NC	53.9
+Rome, GA	83.6
+Sacramento--Arden-Arcade--Roseville, CA	75.6
+Saginaw-Saginaw Township North, MI	78.5
+St. Cloud, MN	95.4
+St. George, UT	95.2
+St. Joseph, MO-KS	93.0
+St. Louis, MO-IL	78.3
+Salem, OR	92.6
+Salinas, CA	85.4
+Salisbury, MD	69.2
+Salt Lake City, UT	91.1
+San Angelo, TX	92.1
+San Antonio, TX	88.5
+San Diego-Carlsbad-San Marcos, CA	79.5
+Sandusky, OH	88.7
+San Francisco-Oakland-Fremont, CA	64.0
+San Jose-Sunnyvale-Santa Clara, CA	62.9
+San Luis Obispo-Paso Robles, CA	90.9
+Santa Barbara-Santa Maria-Goleta, CA	88.7
+Santa Cruz-Watsonville, CA	90.3
+Santa Fe, NM	92.4
+Santa Rosa-Petaluma, CA	89.7
+Savannah, GA	62.3
+Scranton--Wilkes-Barre, PA	95.7
+Seattle-Tacoma-Bellevue, WA	78.2
+Sebastian-Vero Beach, FL	88.7
+Sheboygan, WI	93.2
+Sherman-Denison, TX	89.8
+Shreveport-Bossier City, LA	58.0
+Sioux City, IA-NE-SD	91.4
+Sioux Falls, SD	93.6
+South Bend-Mishawaka, IN-MI	85.0
+Spartanburg, SC	76.0
+Spokane, WA	91.5
+Springfield, IL	86.7
+Springfield, MA	88.8
+Springfield, MO	94.7
+Springfield, OH	88.4
+State College, PA	90.7
+Stockton, CA	72.7
+Sumter, SC	49.6
+Syracuse, NY	87.8
+Tallahassee, FL	63.3
+Tampa-St. Petersburg-Clearwater, FL	83.4
+Terre Haute, IN	92.1
+Texarkana, TX-Texarkana, AR	72.8
+Toledo, OH	84.2
+Topeka, KS	87.7
+Trenton-Ewing, NJ	69.4
+Tucson, AZ	88.1
+Tulsa, OK	77.7
+Tuscaloosa, AL	62.6
+Tyler, TX	79.5
+Utica-Rome, NY	92.0
+Valdosta, GA	64.1
+Vallejo-Fairfield, CA	63.6
+Victoria, TX	91.2
+Vineland-Millville-Bridgeton, NJ	73.8
+Virginia Beach-Norfolk-Newport News, VA-NC	62.2
+Visalia-Porterville, CA	90.7
+Waco, TX	81.7
+Warner Robins, GA	68.2
+Washington-Arlington-Alexandria, DC-VA-MD-WV	62.4
+Waterloo-Cedar Falls, IA	91.0
+Wausau, WI	93.5
+Weirton-Steubenville, WV-OH	94.3
+Wenatchee, WA	95.2
+Wheeling, WV-OH	94.8
+Wichita, KS	85.5
+Wichita Falls, TX	85.2
+Williamsport, PA	93.6
+Wilmington, NC	82.5
+Winchester, VA-WV	92.1
+Winston-Salem, NC	76.8
+Worcester, MA	90.9
+Yakima, WA	89.9
+York-Hanover, PA	92.0
+Youngstown-Warren-Boardman, OH-PA	87.2
+Yuba City, CA	80.7
+Yuma, AZ	92.4

@@ -1,0 +1,364 @@
+MSA	2006	2005	2004	2003	2002	2001	2000
+Abilene, TX	15.7	15.1	15.0	15.1	14.3	14.9	14.8
+Akron, OH	11.8	11.7	11.8	11.8	12.1	12.4	12.7
+Albany, GA	15.2	14.6	14.3	13.7	14.1	14.8	15.6
+Albany-Schenectady-Troy, NY	11.0	11.1	11.1	11.4	11.2	11.5	11.7
+Albuquerque, NM	15.0	14.7	14.7	14.6	14.9	14.7	14.7
+Alexandria, LA	15.2	14.7	14.4	14.8	14.4	14.8	15.5
+Allentown-Bethlehem-Easton, PA-NJ	12.0	11.5	12.0	11.8	11.7	11.5	11.6
+Altoona, PA	11.2	11.4	11.7	11.4	11.5	11.0	11.6
+Amarillo, TX	16.1	16.2	16.5	16.0	15.7	15.7	15.6
+Ames, IA	12.0	11.6	11.0	11.2	11.3	11.5	11.8
+Anchorage, AK	16.4	15.3	15.6	15.4	15.0	15.4	15.6
+Anderson, IN	12.2	12.6	12.4	12.1	12.1	12.8	12.4
+Anderson, SC	14.0	12.9	12.8	13.1	12.6	13.3	13.4
+Ann Arbor, MI	12.3	12.3	12.4	12.5	12.6	12.8	12.8
+Anniston-Oxford, AL	13.4	13.2	13.8	12.8	13.1	14.0	13.6
+Appleton, WI	13.6	13.6	14.1	13.8	14.0	13.8	13.9
+Asheville, NC	11.9	11.7	11.5	11.7	11.7	11.7	12.0
+Athens-Clarke County, GA	13.3	13.6	13.3	13.0	13.0	12.9	12.8
+Atlanta-Sandy Springs-Marietta, GA	16.2	16.0	16.0	16.3	16.1	16.5	16.9
+Atlantic City-Hammonton, NJ	13.5	13.5	13.3	13.3	13.8	13.5	13.5
+Auburn-Opelika, AL	12.8	11.8	12.0	12.5	12.0	11.7	12.7
+Augusta-Richmond County, GA-SC	15.2	14.4	14.3	14.3	14.2	14.9	15.2
+Austin-Round Rock, TX	16.6	16.3	16.4	16.5	16.6	16.9	17.4
+Bakersfield, CA	19.6	18.7	18.5	18.2	17.7	17.4	17.7
+Baltimore-Towson, MD	13.4	13.0	13.0	13.1	13.0	13.2	13.6
+Bangor, ME	10.7	11.3	10.6	10.7	10.3	10.7	10.6
+Barnstable Town, MA	8.5	8.8	8.5	8.8	8.7	9.2	9.0
+Baton Rouge, LA	15.1	14.2	14.3	14.2	14.3	14.7	15.3
+Battle Creek, MI	13.1	13.7	13.3	14.2	13.4	13.8	13.6
+Bay City, MI	11.6	11.5	11.7	11.2	11.8	12.3	11.7
+Beaumont-Port Arthur, TX	14.3	13.1	13.8	13.5	13.4	13.2	13.7
+Bellingham, WA	11.7	11.5	11.3	11.4	11.2	11.4	12.4
+Bend, OR	13.5	12.6	12.4	12.2	11.9	12.3	12.5
+Billings, MT	14.1	13.3	13.7	13.1	13.1	12.9	12.8
+Binghamton, NY	11.1	10.5	10.5	10.7	10.6	10.9	11.2
+Birmingham-Hoover, AL	14.3	13.7	13.8	13.7	13.6	14.0	14.5
+Bismarck, ND	13.5	13.0	12.8	12.7	12.1	12.1	12.3
+Blacksburg-Christiansburg-Radford, VA	9.9	9.4	9.7	9.7	9.5	9.8	10.9
+Bloomington, IN	10.5	10.8	10.8	10.6	10.8	10.8	10.9
+Bloomington-Normal, IL	13.7	13.6	14.0	13.6	13.5	13.4	13.2
+Boise City-Nampa, ID	17.1	16.7	16.9	16.7	16.5	16.6	16.8
+Boston-Cambridge-Quincy, MA-NH	12.2	12.1	12.5	12.7	12.9	13.0	13.3
+Boulder, CO	12.0	12.4	12.7	13.0	13.2	14.2	14.2
+Bowling Green, KY	13.9	13.4	13.5	13.5	13.4	13.0	12.9
+Bradenton-Sarasota-Venice, FL	10.7	10.2	9.9	10.0	10.1	9.9	10.1
+Bremerton-Silverdale, WA	12.7	12.3	12.6	12.6	12.4	12.7	13.4
+Bridgeport-Stamford-Norwalk, CT	13.4	13.2	13.3	13.7	13.4	13.7	14.1
+Brownsville-Harlingen, TX	22.9	23.3	23.6	24.0	24.7	24.5	24.8
+Brunswick, GA	14.2	13.1	13.4	13.2	13.2	12.8	14.0
+Buffalo-Niagara Falls, NY	10.8	10.6	10.9	11.2	11.3	11.5	11.8
+Burlington, NC	13.6	13.1	12.8	13.5	13.4	14.2	14.5
+Burlington-South Burlington, VT	11.1	11.2	11.7	11.6	11.2	11.2	11.7
+Canton-Massillon, OH	11.9	11.5	11.6	11.9	11.8	12.3	13.0
+Cape Coral-Fort Myers, FL	13.2	12.4	11.6	11.5	11.4	11.6	11.8
+Carson City, NV	13.8	14.4	12.9	13.0	13.3	13.9	13.7
+Casper, WY	14.8	14.8	13.7	14.2	13.3	13.3	13.6
+Cedar Rapids, IA	13.6	13.4	13.4	13.6	13.5	13.9	13.8
+Champaign-Urbana, IL	12.5	13.1	12.2	12.3	11.9	12.8	12.9
+Charleston, WV	12.3	12.0	12.6	12.5	12.5	12.0	12.2
+Charleston-North Charleston-Summerville, SC	15.1	14.3	14.3	14.1	13.9	14.3	14.4
+Charlotte-Gastonia-Concord, NC-SC	16.1	15.8	15.7	15.8	15.6	15.7	16.4
+Charlottesville, VA	12.4	12.5	11.9	12.5	12.0	11.8	12.7
+Chattanooga, TN-GA	12.9	12.4	12.5	12.6	12.4	12.9	13.1
+Cheyenne, WY	15.2	15.4	14.8	14.4	14.5	13.6	14.2
+Chicago-Naperville-Joliet, IL-IN-WI	14.8	14.7	15.0	15.3	15.2	15.6	15.8
+Chico, CA	12.1	11.4	11.0	11.3	10.8	11.2	10.8
+Cincinnati-Middletown, OH-KY-IN	14.3	14.0	14.1	14.2	14.1	14.4	15.0
+Clarksville, TN-KY	16.9	19.4	16.4	16.8	17.6	17.7	19.3
+Cleveland, TN	13.0	13.0	13.1	12.8	13.0	13.1	13.6
+Cleveland-Elyria-Mentor, OH	12.3	12.1	12.4	12.5	12.5	12.9	13.2
+Coeur d'Alene, ID	13.1	11.9	13.4	13.0	12.9	13.6	13.9
+College Station-Bryan, TX	14.6	15.0	14.6	14.2	14.5	14.1	15.0
+Colorado Springs, CO	15.1	15.1	14.4	15.3	15.5	15.7	15.8
+Columbia, MO	13.6	13.1	13.4	13.2	12.7	12.4	13.1
+Columbia, SC	14.2	13.7	13.4	13.4	13.3	13.1	13.9
+Columbus, GA-AL	15.8	14.9	15.4	15.1	14.6	15.1	16.1
+Columbus, IN	14.8	14.8	14.5	14.2	13.7	14.1	15.0
+Columbus, OH	15.5	15.1	15.2	15.1	15.0	15.1	15.6
+Corpus Christi, TX	15.4	15.8	16.0	15.6	15.7	16.4	16.7
+Corvallis, OR	10.0	9.9	9.6	9.7	9.8	10.5	9.7
+Cumberland, MD-WV	10.4	9.5	9.8	9.9	10.2	10.4	11.1
+Dallas-Fort Worth-Arlington, TX	17.2	17.1	17.3	17.5	17.6	17.8	17.9
+Dalton, GA	19.4	19.5	19.6	18.2	19.5	19.1	19.5
+Danville, IL	14.4	13.6	13.1	13.1	13.3	13.4	14.4
+Danville, VA	12.2	11.7	11.4	11.6	11.5	11.8	12.1
+Davenport-Moline-Rock Island, IA-IL	13.1	13.5	13.3	13.1	13.3	13.2	13.4
+Dayton, OH	12.8	12.7	12.5	13.0	12.6	12.9	13.4
+Decatur, AL	12.6	13.5	12.9	12.8	12.8	13.0	13.8
+Decatur, IL	13.2	12.7	12.2	12.5	13.1	12.8	12.6
+Deltona-Daytona Beach-Ormond Beach, FL	10.6	10.5	10.0	10.3	9.9	10.3	10.1
+Denver-Aurora, CO	15.8	15.8	16.1	16.3	16.4	16.0	16.0
+Des Moines-West Des Moines, IA	16.2	15.7	15.2	15.5	15.3	15.2	15.8
+Detroit-Warren-Livonia, MI	12.7	12.7	13.1	13.3	13.3	13.8	14.2
+Dothan, AL	13.9	12.9	13.0	13.9	13.5	13.2	14.5
+Dover, DE	15.0	15.1	14.5	15.4	14.4	14.6	15.3
+Dubuque, IA	13.2	12.4	13.3	13.7	12.9	13.2	13.7
+Duluth, MN-WI	11.3	10.9	10.9	11.0	10.4	10.4	10.6
+Durham, NC	14.3	14.5	14.1	14.3	14.7	14.5	14.6
+Eau Claire, WI	12.7	12.4	11.9	11.8	11.9	12.2	12.1
+El Centro, CA	19.9	20.0	19.0	19.7	18.5	18.4	18.5
+Elizabethtown, KY	16.3	16.4	15.0	14.6	15.6	14.4	15.4
+Elkhart-Goshen, IN	17.8	18.0	17.1	16.9	16.2	16.9	18.1
+Elmira, NY	11.6	11.6	10.9	12.0	11.9	12.0	12.0
+El Paso, TX	19.8	20.5	20.5	20.4	20.4	20.7	21.0
+Erie, PA	12.3	11.6	11.7	11.7	12.0	12.0	12.4
+Eugene-Springfield, OR	10.9	10.4	10.5	11.4	10.7	11.0	11.5
+Evansville, IN-KY	13.4	13.0	13.2	12.9	12.6	12.8	13.1
+Fairbanks, AK	16.6	16.5	17.2	17.6	17.3	17.5	18.6
+Fargo, ND-MN	14.6	14.3	13.4	14.2	13.0	13.6	12.7
+Farmington, NM	18.0	17.0	16.6	16.5	16.7	17.1	17.2
+Fayetteville, NC	18.6	18.3	17.0	17.3	17.8	17.7	18.8
+Fayetteville-Springdale-Rogers, AR-MO	17.4	16.7	16.4	16.4	16.3	15.5	15.5
+Flagstaff, AZ	16.4	16.6	16.5	15.8	15.6	16.0	16.1
+Flint, MI	13.9	13.7	14.2	14.3	14.2	14.4	14.6
+Florence, SC	14.3	14.2	14.0	14.4	14.0	14.7	14.6
+Florence-Muscle Shoals, AL	11.5	10.8	10.8	11.2	10.9	11.4	11.6
+Fond du Lac, WI	12.0	12.1	11.4	12.3	11.6	11.2	11.8
+Fort Collins-Loveland, CO	12.5	12.4	12.3	12.9	12.3	12.6	12.9
+Fort Smith, AR-OK	14.8	14.6	14.5	14.7	14.9	15.2	15.2
+Fort Walton Beach-Crestview-Destin, FL	15.2	14.9	14.9	14.2	14.0	13.9	13.9
+Fort Wayne, IN	15.3	14.9	15.2	15.1	14.9	15.6	15.4
+Fresno, CA	19.1	18.3	18.5	18.2	17.8	17.6	17.8
+Gadsden, AL	12.6	12.5	11.7	12.4	12.3	12.4	13.4
+Gainesville, FL	11.9	11.6	11.9	11.0	10.9	11.2	12.0
+Gainesville, GA	17.7	18.2	19.0	18.8	19.3	19.3	20.7
+Glens Falls, NY	9.6	10.5	10.2	10.2	10.3	10.4	10.0
+Goldsboro, NC	15.7	16.0	15.5	15.2	14.7	15.4	15.6
+Grand Forks, ND-MN	13.8	13.0	13.1	13.0	12.8	11.8	12.9
+Grand Junction, CO	14.0	14.0	13.5	13.3	12.7	12.5	12.6
+Grand Rapids-Wyoming, MI	15.1	15.0	15.2	15.1	14.9	15.3	15.9
+Great Falls, MT	14.2	13.4	14.2	13.9	13.4	13.0	12.5
+Greeley, CO	17.5	17.1	17.7	18.3	17.3	16.3	16.3
+Green Bay, WI	13.7	13.3	13.1	13.8	13.5	13.5	13.5
+Greensboro-High Point, NC	13.1	13.1	13.1	13.3	13.3	13.7	14.4
+Greenville, NC	14.5	14.0	14.7	14.1	14.2	14.4	15.0
+Greenville-Mauldin-Easley, SC	14.3	13.5	13.4	13.2	13.0	13.5	13.5
+Gulfport-Biloxi, MS	14.7	13.2	14.8	14.6	14.7	14.4	15.4
+Hagerstown-Martinsburg, MD-WV	13.3	12.9	12.9	12.7	12.8	12.5	12.7
+Hanford-Corcoran, CA	18.4	17.8	17.9	17.0	17.1	16.1	16.8
+Harrisburg-Carlisle, PA	12.4	12.0	11.7	11.7	11.3	11.7	11.5
+Harrisonburg, VA	12.3	12.5	12.7	12.2	12.7	12.3	12.1
+Hartford-West Hartford-East Hartford, CT	11.4	11.5	11.6	11.8	11.3	12.0	12.8
+Hattiesburg, MS	16.6	14.8	15.1	15.0	15.0	14.7	15.1
+Hickory-Lenoir-Morganton, NC	12.5	12.3	12.3	12.4	12.8	13.0	14.1
+Hinesville-Fort Stewart, GA	20.4	19.6	22.7	19.5	22.0	23.2	22.5
+Holland-Grand Haven, MI	13.8	13.9	14.1	14.2	14.2	14.9	15.4
+Honolulu, HI	15.2	14.4	14.9	14.9	14.6	14.1	14.4
+Hot Springs, AR	12.7	12.0	12.0	12.2	11.2	11.5	11.5
+Houma-Bayou Cane-Thibodaux, LA	15.3	13.5	14.8	14.9	15.0	14.5	15.5
+Houston-Sugar Land-Baytown, TX	17.3	17.0	17.2	17.4	17.4	17.3	17.7
+Huntington-Ashland, WV-KY-OH	12.2	11.8	11.8	11.9	11.9	11.8	12.0
+Huntsville, AL	13.3	12.8	12.5	12.1	12.3	12.9	13.7
+Idaho Falls, ID	20.7	19.9	19.4	19.3	18.3	17.6	17.6
+Indianapolis-Carmel, IN	15.7	15.3	15.6	15.7	15.5	15.5	16.0
+Iowa City, IA	13.4	12.1	13.1	13.2	12.8	12.6	12.7
+Ithaca, NY	8.5	8.7	9.1	9.9	8.5	8.9	8.7
+Jackson, MI	12.3	12.9	13.4	12.8	12.5	12.7	13.4
+Jackson, MS	16.3	15.4	15.4	15.6	14.9	15.2	15.8
+Jackson, TN	13.9	14.0	13.9	14.1	13.7	13.6	14.6
+Jacksonville, FL	14.9	14.5	14.3	14.3	13.9	14.3	14.6
+Jacksonville, NC	22.0	20.1	20.9	20.4	20.3	20.9	22.2
+Janesville, WI	13.4	13.1	12.9	13.4	12.8	13.3	13.6
+Jefferson City, MO	13.4	13.2	13.8	13.1	12.5	12.4	12.3
+Johnson City, TN	11.5	11.2	11.7	11.6	11.2	10.9	11.6
+Johnstown, PA	10.1	10.1	10.2	10.2	9.7	9.9	10.3
+Jonesboro, AR	14.7	14.0	14.4	14.4	14.1	13.8	15.3
+Joplin, MO	15.3	15.6	14.9	15.0	15.2	15.5	15.4
+Kalamazoo-Portage, MI	12.9	13.1	13.0	13.0	12.8	13.3	13.5
+Kankakee-Bradley, IL	14.9	14.1	13.8	14.0	15.0	14.8	15.0
+Kansas City, MO-KS	15.4	15.1	15.1	15.1	15.1	15.1	15.1
+Kennewick-Pasco-Richland, WA	17.4	16.7	16.5	16.8	16.6	17.1	16.6
+Killeen-Temple-Fort Hood, TX	20.7	19.1	17.1	20.0	19.9	19.6	20.1
+Kingsport-Bristol-Bristol, TN-VA	10.9	10.9	10.5	10.8	10.6	11.0	11.5
+Kingston, NY	10.3	9.8	10.2	10.1	10.0	10.2	10.0
+Knoxville, TN	12.4	12.1	12.4	12.4	11.9	12.1	12.3
+Kokomo, IN	12.9	12.6	13.5	14.1	13.3	13.8	13.4
+La Crosse, WI-MN	12.1	11.7	11.4	11.3	11.2	11.6	11.4
+Lafayette, IN	13.1	13.0	13.5	13.0	12.7	12.9	12.9
+Lafayette, LA	15.4	14.9	15.0	15.1	15.1	15.0	15.2
+Lake Charles, LA	15.5	14.1	14.5	14.9	14.7	14.7	15.1
+Lake Havasu City-Kingman, AZ	13.4	12.8	12.9	13.0	13.0	12.6	12.8
+Lakeland-Winter Haven, FL	14.9	14.5	13.8	13.9	13.7	14.0	14.2
+Lancaster, PA	14.3	14.0	14.2	13.7	14.1	14.0	14.6
+Lansing-East Lansing, MI	12.3	12.3	12.5	12.7	12.6	12.8	13.1
+Laredo, TX	26.3	26.9	28.0	28.2	29.0	29.7	29.9
+Las Cruces, NM	17.4	17.6	17.6	17.6	17.2	17.1	17.4
+Las Vegas-Paradise, NV	16.8	16.3	15.9	15.8	15.7	15.7	16.2
+Lawrence, KS	11.2	11.2	11.6	11.5	11.6	11.8	11.8
+Lawton, OK	16.7	17.6	17.0	17.1	17.0	16.6	16.8
+Lebanon, PA	12.7	12.7	12.4	11.4	12.6	11.4	12.0
+Lewiston, ID-WA	11.8	11.7	12.4	12.6	12.1	12.1	11.6
+Lewiston-Auburn, ME	13.2	12.6	12.1	12.6	12.0	12.2	10.9
+Lexington-Fayette, KY	14.6	14.1	14.3	14.0	13.5	14.0	14.1
+Lima, OH	13.6	13.6	13.6	14.1	13.8	14.5	14.6
+Lincoln, NE	14.9	14.9	15.4	15.2	14.5	14.4	14.9
+Little Rock-North Little Rock-Conway, AR	15.1	14.5	14.8	14.5	14.5	14.2	14.9
+Logan, UT-ID	22.3	22.4	23.8	23.5	23.2	22.9	23.4
+Longview, TX	16.4	15.2	14.9	14.7	15.3	14.7	14.6
+Longview, WA	13.4	12.9	12.9	12.1	13.2	13.1	13.9
+Los Angeles-Long Beach-Santa Ana, CA	15.3	15.2	15.4	15.5	15.5	15.9	16.5
+Louisville/Jefferson County, KY-IN	13.8	13.4	13.3	13.5	13.3	13.5	14.1
+Lubbock, TX	16.0	15.5	16.0	16.2	15.8	15.5	15.9
+Lynchburg, VA	11.3	11.4	10.8	11.3	11.3	11.3	11.9
+Macon, GA	14.9	14.9	14.4	14.6	14.6	14.7	15.1
+Madera, CA	18.3	16.8	17.2	17.3	16.8	17.4	17.1
+Madison, WI	12.9	13.1	13.0	12.7	12.5	12.7	12.8
+Manchester-Nashua, NH	12.4	12.6	12.6	12.5	12.9	12.9	13.2
+Mansfield, OH	12.9	12.4	12.3	12.5	12.0	12.8	12.4
+McAllen-Edinburg-Mission, TX	24.9	25.5	25.5	25.9	25.8	25.6	27.0
+Medford, OR	11.6	11.4	11.0	11.3	11.3	11.6	11.3
+Memphis, TN-MS-AR	16.3	15.7	15.6	15.5	15.6	15.8	16.4
+Merced, CA	19.7	18.8	18.4	18.7	18.0	18.2	18.4
+Miami-Fort Lauderdale-Pompano Beach, FL	13.5	13.2	13.2	13.3	13.1	13.4	13.5
+Michigan City-La Porte, IN	12.2	12.5	12.2	12.0	12.5	12.7	13.1
+Midland, TX	16.9	16.4	16.1	15.7	15.8	15.5	15.9
+Milwaukee-Waukesha-West Allis, WI	14.1	13.9	13.9	14.1	13.9	14.2	14.4
+Minneapolis-St. Paul-Bloomington, MN-WI	15.0	14.7	14.8	14.8	14.6	14.6	14.9
+Missoula, MT	11.8	11.3	12.0	11.5	11.3	11.3	11.9
+Mobile, AL	15.3	14.7	14.4	14.7	14.6	14.7	15.9
+Modesto, CA	17.3	16.9	16.4	16.5	16.6	16.4	16.2
+Monroe, LA	16.0	15.2	15.6	15.0	15.1	15.2	15.9
+Monroe, MI	11.5	11.4	11.6	12.0	12.0	12.2	12.7
+Montgomery, AL	14.7	14.4	14.3	14.1	14.4	15.0	15.7
+Morgantown, WV	10.9	10.2	10.8	10.8	10.9	10.2	10.2
+Morristown, TN	13.2	13.2	12.5	12.8	13.0	12.8	13.3
+Mount Vernon-Anacortes, WA	13.2	13.0	12.9	12.7	13.1	13.3	13.6
+Muncie, IN	10.6	11.2	11.1	11.3	10.9	11.4	12.1
+Muskegon-Norton Shores, MI	13.6	13.7	13.3	13.8	13.5	14.2	14.1
+Myrtle Beach-North Myrtle Beach-Conway, SC	13.9	12.8	12.9	12.7	12.3	12.8	13.1
+Napa, CA	13.4	12.7	12.3	12.9	12.2	12.3	12.0
+Naples-Marco Island, FL	13.8	13.3	13.2	13.1	13.1	13.2	12.2
+Nashville-Davidson--Murfreesboro--Franklin, TN	15.1	14.8	14.5	14.4	14.2	14.6	14.9
+New Haven-Milford, CT	12.2	12.2	12.1	12.3	12.2	12.4	12.3
+New Orleans-Metairie-Kenner, LA	13.5	11.3	14.4	14.3	14.2	14.3	14.7
+New York-Northern New Jersey-Long Island, NY-NJ-PA	13.7	13.5	13.8	14.1	14.0	14.2	14.4
+Niles-Benton Harbor, MI	13.3	13.1	12.6	13.2	12.6	13.2	13.8
+Norwich-New London, CT	11.4	11.7	11.9	11.9	13.6	11.6	9.5
+Ocala, FL	11.5	11.4	11.0	10.7	10.7	11.2	11.2
+Ocean City, NJ	9.4	9.8	9.0	10.1	10.1	10.0	10.2
+Odessa, TX	19.7	18.2	18.8	18.7	18.7	18.1	17.7
+Ogden-Clearfield, UT	20.3	19.9	20.1	20.4	20.0	20.1	20.1
+Oklahoma City, OK	15.8	15.4	15.5	15.3	15.1	14.9	14.8
+Olympia, WA	11.9	11.5	11.6	11.9	11.3	12.2	12.3
+Omaha-Council Bluffs, NE-IA	16.4	16.5	16.3	16.0	16.1	15.9	15.6
+Orlando-Kissimmee, FL	14.6	14.5	14.2	14.2	13.8	14.0	14.4
+Oshkosh-Neenah, WI	11.8	11.5	11.6	11.0	11.7	11.7	12.3
+Owensboro, KY	14.4	13.9	14.2	14.3	13.5	14.7	14.6
+Oxnard-Thousand Oaks-Ventura, CA	15.7	15.4	15.1	15.3	14.9	14.8	15.6
+Palm Bay-Melbourne-Titusville, FL	10.6	10.3	10.1	10.0	9.7	9.9	10.5
+Palm Coast, FL	11.4	9.2	8.7	9.0	8.9	7.8	8.3
+Panama City-Lynn Haven, FL	14.9	14.8	14.3	13.3	13.1	12.7	13.6
+Parkersburg-Marietta-Vienna, WV-OH	10.9	11.3	11.0	11.3	11.4	11.2	11.3
+Pascagoula, MS	15.4	13.1	14.3	14.0	14.2	14.4	15.0
+Pensacola-Ferry Pass-Brent, FL	14.0	13.5	13.1	12.8	12.7	13.0	13.0
+Peoria, IL	13.5	13.3	13.4	13.2	13.2	13.2	13.4
+Philadelphia-Camden-Wilmington, PA-NJ-DE-MD	13.6	13.3	13.2	13.4	13.0	13.1	13.4
+Phoenix-Mesa-Scottsdale, AZ	17.5	17.1	17.1	17.2	17.0	17.2	17.6
+Pine Bluff, AR	13.8	13.4	13.5	13.3	13.7	13.4	14.5
+Pittsburgh, PA	10.3	10.2	10.3	10.6	10.4	10.5	10.8
+Pittsfield, MA	9.5	9.7	9.8	9.6	9.3	9.2	8.9
+Pocatello, ID	18.0	19.3	17.9	18.9	18.2	17.5	18.0
+Portland-South Portland-Biddeford, ME	10.8	11.0	11.0	11.1	10.9	11.1	11.2
+Portland-Vancouver-Beaverton, OR-WA	14.0	13.6	13.8	13.8	13.9	14.2	14.8
+Port St. Lucie, FL	12.7	11.6	11.5	10.4	10.4	10.5	10.9
+Poughkeepsie-Newburgh-Middletown, NY	12.9	12.8	12.9	13.0	13.0	13.0	13.5
+Prescott, AZ	11.6	10.8	10.6	10.1	10.8	10.1	10.5
+Providence-New Bedford-Fall River, RI-MA	11.9	12.0	12.0	12.3	12.2	12.1	12.2
+Provo-Orem, UT	24.3	24.8	25.2	26.1	26.6	26.3	26.7
+Pueblo, CO	14.2	13.0	13.3	13.6	14.0	13.9	13.7
+Punta Gorda, FL	7.9	7.1	6.9	6.9	6.7	7.1	7.3
+Racine, WI	13.4	13.3	12.8	13.2	13.3	13.6	14.0
+Raleigh-Cary, NC	16.0	16.0	16.1	15.9	15.8	15.9	16.3
+Rapid City, SD	16.5	16.5	15.9	16.3	15.5	15.5	15.3
+Reading, PA	13.0	12.9	12.7	12.6	12.4	12.3	12.6
+Redding, CA	12.3	12.0	11.6	11.8	11.5	11.6	11.2
+Reno-Sparks, NV	15.4	14.6	14.4	14.5	14.7	14.4	14.6
+Richmond, VA	13.6	13.3	13.4	13.2	13.2	13.3	13.6
+Riverside-San Bernardino-Ontario, CA	17.2	16.7	16.4	16.3	16.2	16.2	16.5
+Roanoke, VA	12.2	11.5	11.7	11.5	11.2	11.8	11.8
+Rochester, MN	15.5	15.5	15.5	15.5	15.0	14.4	14.7
+Rochester, NY	11.9	11.3	11.4	11.9	11.8	11.8	12.6
+Rockford, IL	14.0	13.7	13.8	14.1	14.1	14.1	14.4
+Rocky Mount, NC	13.3	13.4	14.0	13.0	13.6	14.4	15.1
+Rome, GA	15.8	14.4	14.8	15.0	14.7	14.6	14.7
+Sacramento--Arden-Arcade--Roseville, CA	14.9	14.5	14.4	14.4	14.0	14.0	14.0
+Saginaw-Saginaw Township North, MI	12.5	12.9	12.8	12.7	12.7	13.2	13.5
+St. Cloud, MN	14.2	13.7	13.5	13.6	13.4	13.3	13.9
+St. George, UT	21.7	20.6	20.5	20.5	19.9	19.2	20.1
+St. Joseph, MO-KS	13.6	12.3	12.3	11.8	12.2	11.6	12.7
+St. Louis, MO-IL	13.5	13.0	13.2	13.3	13.0	13.2	13.6
+Salem, OR	15.2	14.9	14.9	14.9	14.5	15.1	15.2
+Salinas, CA	18.5	18.4	18.0	18.0	16.8	17.1	16.7
+Salisbury, MD	13.7	12.8	12.6	12.8	12.7	12.5	13.2
+Salt Lake City, UT	19.4	19.4	19.4	19.5	20.0	19.8	20.4
+San Angelo, TX	15.6	14.8	15.0	15.4	15.1	14.6	15.4
+San Antonio, TX	16.3	16.3	16.3	16.3	16.5	16.2	16.6
+San Diego-Carlsbad-San Marcos, CA	16.0	15.7	15.6	15.5	15.1	15.3	15.8
+Sandusky, OH	10.9	10.8	11.3	12.0	11.7	11.6	12.0
+San Francisco-Oakland-Fremont, CA	13.4	13.3	13.4	13.6	13.5	13.5	13.9
+San Jose-Sunnyvale-Santa Clara, CA	15.8	15.8	15.9	16.1	16.2	16.1	16.5
+San Luis Obispo-Paso Robles, CA	10.5	10.3	10.5	10.3	9.4	9.7	9.9
+Santa Barbara-Santa Maria-Goleta, CA	15.4	15.4	15.4	14.4	14.2	14.0	14.2
+Santa Cruz-Watsonville, CA	14.4	13.6	13.5	13.7	13.9	14.4	14.4
+Santa Fe, NM	12.0	11.9	11.6	12.1	12.1	11.6	12.7
+Santa Rosa-Petaluma, CA	12.8	12.1	12.9	12.6	12.2	12.3	12.3
+Savannah, GA	16.0	15.6	15.6	15.2	15.1	15.4	15.2
+Scranton--Wilkes-Barre, PA	10.6	10.4	10.4	10.0	9.7	9.9	9.8
+Seattle-Tacoma-Bellevue, WA	13.7	13.2	13.2	13.1	12.9	13.1	13.5
+Sebastian-Vero Beach, FL	10.9	10.7	10.0	10.1	9.0	9.7	10.0
+Sheboygan, WI	12.5	13.0	12.2	12.2	12.2	11.9	12.8
+Sherman-Denison, TX	13.3	13.7	14.5	13.8	13.5	14.3	14.0
+Shreveport-Bossier City, LA	15.5	14.8	15.0	14.6	14.9	14.8	15.4
+Sioux City, IA-NE-SD	16.5	13.7	15.9	15.9	16.2	15.4	16.2
+Sioux Falls, SD	16.0	16.0	15.8	15.6	15.5	15.1	15.2
+South Bend-Mishawaka, IN-MI	14.3	13.7	13.8	13.4	13.5	13.8	14.4
+Spartanburg, SC	14.4	12.9	13.3	13.1	13.3	13.4	13.2
+Spokane, WA	13.4	12.7	12.6	12.7	13.0	12.9	13.6
+Springfield, IL	12.8	12.8	13.2	13.3	12.7	13.3	13.9
+Springfield, MA	11.2	11.0	11.1	11.3	11.3	11.4	11.6
+Springfield, MO	13.8	14.2	13.6	13.3	13.0	12.9	13.8
+Springfield, OH	12.8	12.5	12.1	12.5	12.7	13.0	13.3
+State College, PA	9.4	9.0	8.9	9.6	9.0	8.8	9.4
+Stockton, CA	17.8	17.5	17.1	16.7	16.7	16.6	17.0
+Sumter, SC	16.4	15.8	15.5	15.8	15.0	15.4	16.6
+Syracuse, NY	11.8	11.5	11.7	11.9	11.9	12.3	12.7
+Tallahassee, FL	13.0	12.6	12.7	12.9	12.4	12.6	12.9
+Tampa-St. Petersburg-Clearwater, FL	12.6	12.2	12.1	11.8	11.7	12.0	12.2
+Terre Haute, IN	12.5	12.0	12.2	12.5	12.6	12.3	12.7
+Texarkana, TX-Texarkana, AR	14.2	13.6	13.2	12.8	13.1	13.0	14.0
+Toledo, OH	13.5	13.0	13.3	13.2	12.9	13.3	13.8
+Topeka, KS	14.2	14.2	13.9	14.0	14.1	13.5	13.8
+Trenton-Ewing, NJ	12.9	12.6	12.9	12.6	12.9	13.1	13.4
+Tucson, AZ	14.3	13.7	14.1	14.2	14.1	14.0	14.8
+Tulsa, OK	15.4	14.8	14.9	15.0	14.9	15.0	15.3
+Tuscaloosa, AL	13.2	13.0	12.9	13.1	13.0	13.6	14.2
+Tyler, TX	15.7	15.2	15.5	15.7	15.2	15.1	15.2
+Utica-Rome, NY	11.0	10.7	11.1	11.2	10.7	10.7	10.5
+Valdosta, GA	16.9	15.5	16.1	15.5	14.8	14.4	15.1
+Vallejo-Fairfield, CA	14.3	14.1	13.9	14.2	14.4	14.3	15.0
+Victoria, TX	16.0	14.9	15.8	15.1	15.7	15.9	15.7
+Vineland-Millville-Bridgeton, NJ	15.6	16.0	15.2	14.6	14.1	14.3	13.9
+Virginia Beach-Norfolk-Newport News, VA-NC	14.7	14.5	14.8	14.4	14.4	14.5	14.9
+Visalia-Porterville, CA	20.1	20.2	20.1	19.6	19.6	19.6	19.7
+Waco, TX	15.4	15.2	14.7	15.3	15.1	15.0	15.4
+Warner Robins, GA	15.9	15.0	14.6	15.0	13.8	14.3	14.4
+Washington-Arlington-Alexandria, DC-VA-MD-WV	15.5	15.1	15.2	15.2	15.0	15.1	15.3
+Waterloo-Cedar Falls, IA	13.6	12.8	12.7	11.8	12.2	12.0	11.8
+Wausau, WI	12.7	12.2	12.1	12.3	11.9	12.2	12.1
+Weirton-Steubenville, WV-OH	10.2	10.4	10.4	10.0	10.0	10.0	10.7
+Wenatchee, WA	14.5	13.8	13.3	13.1	13.6	14.2	14.5
+Wheeling, WV-OH	10.2	10.5	10.4	10.0	9.9	10.2	10.3
+Wichita, KS	16.1	16.0	15.9	15.5	15.7	15.5	16.4
+Wichita Falls, TX	14.1	13.7	14.5	13.6	13.9	13.9	13.6
+Williamsport, PA	11.6	11.5	11.4	11.5	10.7	10.8	11.2
+Wilmington, NC	12.5	12.2	11.7	11.5	11.6	12.2	12.3
+Winchester, VA-WV	13.8	13.9	13.8	13.7	12.8	12.1	13.6
+Winston-Salem, NC	14.2	13.7	13.6	13.8	13.6	14.2	14.5
+Worcester, MA	12.7	12.6	12.6	13.1	13.1	13.5	13.3
+Yakima, WA	18.9	18.3	18.5	18.4	18.1	18.8	19.1
+York-Hanover, PA	12.5	12.3	12.4	12.3	11.8	12.0	11.9
+Youngstown-Warren-Boardman, OH-PA	10.9	10.9	10.8	11.2	10.4	11.6	11.7
+Yuba City, CA	18.3	17.7	16.8	17.3	16.6	16.0	16.0
+Yuma, AZ	18.2	18.4	19.1	18.9	18.6	18.5	18.9

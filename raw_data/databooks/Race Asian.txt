@@ -1,0 +1,364 @@
+MSA	Asian alone
+Abilene, TX	1.3
+Akron, OH	1.8
+Albany, GA	0.9
+Albany-Schenectady-Troy, NY	3.0
+Albuquerque, NM	2.0
+Alexandria, LA	0.9
+Allentown-Bethlehem-Easton, PA-NJ	2.4
+Altoona, PA	0.5
+Amarillo, TX	1.9
+Ames, IA	5.7
+Anchorage, AK	5.3
+Anderson, IN	0.5
+Anderson, SC	0.7
+Ann Arbor, MI	8.2
+Anniston-Oxford, AL	0.7
+Appleton, WI	2.3
+Asheville, NC	0.8
+Athens-Clarke County, GA	2.6
+Atlanta-Sandy Springs-Marietta, GA	4.2
+Atlantic City-Hammonton, NJ	6.6
+Auburn-Opelika, AL	1.8
+Augusta-Richmond County, GA-SC	1.6
+Austin-Round Rock, TX	4.5
+Bakersfield, CA	4.0
+Baltimore-Towson, MD	3.9
+Bangor, ME	0.9
+Barnstable Town, MA	1.0
+Baton Rouge, LA	1.6
+Battle Creek, MI	1.6
+Bay City, MI	0.6
+Beaumont-Port Arthur, TX	2.1
+Bellingham, WA	3.7
+Bend, OR	1.1
+Billings, MT	0.8
+Binghamton, NY	2.9
+Birmingham-Hoover, AL	1.1
+Bismarck, ND	0.6
+Blacksburg-Christiansburg-Radford, VA	3.0
+Bloomington, IN	3.2
+Bloomington-Normal, IL	3.0
+Boise City-Nampa, ID	1.7
+Boston-Cambridge-Quincy, MA-NH	6.0
+Boulder, CO	3.8
+Bowling Green, KY	1.2
+Bradenton-Sarasota-Venice, FL	1.3
+Bremerton-Silverdale, WA	4.6
+Bridgeport-Stamford-Norwalk, CT	4.3
+Brownsville-Harlingen, TX	0.6
+Brunswick, GA	0.7
+Buffalo-Niagara Falls, NY	1.7
+Burlington, NC	1.2
+Burlington-South Burlington, VT	2.0
+Canton-Massillon, OH	0.7
+Cape Coral-Fort Myers, FL	1.3
+Carson City, NV	2.2
+Casper, WY	0.6
+Cedar Rapids, IA	1.7
+Champaign-Urbana, IL	7.1
+Charleston, WV	0.9
+Charleston-North Charleston-Summerville, SC	1.7
+Charlotte-Gastonia-Concord, NC-SC	2.7
+Charlottesville, VA	3.5
+Chattanooga, TN-GA	1.2
+Cheyenne, WY	1.4
+Chicago-Naperville-Joliet, IL-IN-WI	5.3
+Chico, CA	4.1
+Cincinnati-Middletown, OH-KY-IN	1.7
+Clarksville, TN-KY	1.5
+Cleveland, TN	0.7
+Cleveland-Elyria-Mentor, OH	1.8
+Coeur d'Alene, ID	0.7
+College Station-Bryan, TX	3.8
+Colorado Springs, CO	3.0
+Columbia, MO	3.0
+Columbia, SC	1.6
+Columbus, GA-AL	1.6
+Columbus, IN	3.0
+Columbus, OH	3.2
+Corpus Christi, TX	1.4
+Corvallis, OR	5.4
+Cumberland, MD-WV	0.6
+Dallas-Fort Worth-Arlington, TX	4.8
+Dalton, GA	1.0
+Danville, IL	0.7
+Danville, VA	0.5
+Davenport-Moline-Rock Island, IA-IL	1.7
+Dayton, OH	1.6
+Decatur, AL	0.5
+Decatur, IL	1.0
+Deltona-Daytona Beach-Ormond Beach, FL	1.5
+Denver-Aurora, CO	3.4
+Des Moines-West Des Moines, IA	2.6
+Detroit-Warren-Livonia, MI	3.2
+Dothan, AL	0.6
+Dover, DE	2.0
+Dubuque, IA	0.8
+Duluth, MN-WI	0.7
+Durham, NC	4.1
+Eau Claire, WI	2.0
+El Centro, CA	2.5
+Elizabethtown, KY	1.8
+Elkhart-Goshen, IN	1.2
+Elmira, NY	1.1
+El Paso, TX	1.2
+Erie, PA	0.8
+Eugene-Springfield, OR	2.9
+Evansville, IN-KY	0.9
+Fairbanks, AK	2.5
+Fargo, ND-MN	1.3
+Farmington, NM	0.5
+Fayetteville, NC	2.0
+Fayetteville-Springdale-Rogers, AR-MO	2.0
+Flagstaff, AZ	1.1
+Flint, MI	0.9
+Florence, SC	0.7
+Florence-Muscle Shoals, AL	0.4
+Fond du Lac, WI	0.9
+Fort Collins-Loveland, CO	1.8
+Fort Smith, AR-OK	1.9
+Fort Walton Beach-Crestview-Destin, FL	2.8
+Fort Wayne, IN	1.7
+Fresno, CA	8.7
+Gadsden, AL	0.5
+Gainesville, FL	4.3
+Gainesville, GA	1.7
+Glens Falls, NY	0.7
+Goldsboro, NC	0.8
+Grand Forks, ND-MN	1.0
+Grand Junction, CO	0.7
+Grand Rapids-Wyoming, MI	1.7
+Great Falls, MT	0.7
+Greeley, CO	1.3
+Green Bay, WI	1.9
+Greensboro-High Point, NC	2.4
+Greenville, NC	1.0
+Greenville-Mauldin-Easley, SC	1.7
+Gulfport-Biloxi, MS	2.3
+Hagerstown-Martinsburg, MD-WV	1.1
+Hanford-Corcoran, CA	3.2
+Harrisburg-Carlisle, PA	2.4
+Harrisonburg, VA	1.7
+Hartford-West Hartford-East Hartford, CT	3.3
+Hattiesburg, MS	0.9
+Hickory-Lenoir-Morganton, NC	2.3
+Hinesville-Fort Stewart, GA	1.7
+Holland-Grand Haven, MI	2.3
+Honolulu, HI	44.6
+Hot Springs, AR	0.6
+Houma-Bayou Cane-Thibodaux, LA	0.9
+Houston-Sugar Land-Baytown, TX	5.8
+Huntington-Ashland, WV-KY-OH	0.5
+Huntsville, AL	1.9
+Idaho Falls, ID	0.7
+Indianapolis-Carmel, IN	1.8
+Iowa City, IA	4.0
+Ithaca, NY	9.9
+Jackson, MI	0.7
+Jackson, MS	0.9
+Jackson, TN	0.8
+Jacksonville, FL	3.0
+Jacksonville, NC	2.0
+Janesville, WI	1.0
+Jefferson City, MO	1.0
+Johnson City, TN	0.6
+Johnstown, PA	0.6
+Jonesboro, AR	0.6
+Joplin, MO	1.0
+Kalamazoo-Portage, MI	1.9
+Kankakee-Bradley, IL	0.9
+Kansas City, MO-KS	2.1
+Kennewick-Pasco-Richland, WA	2.3
+Killeen-Temple-Fort Hood, TX	2.6
+Kingsport-Bristol-Bristol, TN-VA	0.5
+Kingston, NY	1.7
+Knoxville, TN	1.4
+Kokomo, IN	1.1
+La Crosse, WI-MN	2.8
+Lafayette, IN	4.5
+Lafayette, LA	1.3
+Lake Charles, LA	0.8
+Lake Havasu City-Kingman, AZ	1.2
+Lakeland-Winter Haven, FL	1.5
+Lancaster, PA	1.7
+Lansing-East Lansing, MI	3.2
+Laredo, TX	0.5
+Las Cruces, NM	1.0
+Las Vegas-Paradise, NV	7.3
+Lawrence, KS	3.8
+Lawton, OK	2.2
+Lebanon, PA	1.0
+Lewiston, ID-WA	0.9
+Lewiston-Auburn, ME	0.7
+Lexington-Fayette, KY	2.2
+Lima, OH	0.7
+Lincoln, NE	3.0
+Little Rock-North Little Rock-Conway, AR	1.3
+Logan, UT-ID	1.9
+Longview, TX	0.7
+Longview, WA	1.4
+Los Angeles-Long Beach-Santa Ana, CA	13.9
+Louisville-Jefferson County, KY-IN	1.3
+Lubbock, TX	1.4
+Lynchburg, VA	1.1
+Macon, GA	1.2
+Madera, CA	2.1
+Madison, WI	4.0
+Manchester-Nashua, NH	3.1
+Mansfield, OH	0.6
+McAllen-Edinburg-Mission, TX	0.9
+Medford, OR	1.3
+Memphis, TN-MS-AR	1.8
+Merced, CA	6.6
+Miami-Fort Lauderdale-Pompano Beach, FL	2.2
+Michigan City-La Porte, IN	0.5
+Midland, TX	1.0
+Milwaukee-Waukesha-West Allis, WI	2.7
+Minneapolis-St. Paul-Bloomington, MN-WI	5.0
+Missoula, MT	1.2
+Mobile, AL	1.8
+Modesto, CA	5.0
+Monroe, LA	0.8
+Monroe, MI	0.7
+Montgomery, AL	1.0
+Morgantown, WV	1.8
+Morristown, TN	0.6
+Mount Vernon-Anacortes, WA	2.0
+Muncie, IN	1.0
+Muskegon-Norton Shores, MI	0.5
+Myrtle Beach-North Myrtle Beach-Conway, SC	1.0
+Napa, CA	6.1
+Naples-Marco Island, FL	1.1
+Nashville-Davidson--Murfreesboro--Franklin, TN	2.1
+New Haven-Milford, CT	3.5
+New Orleans-Metairie-Kenner, LA	2.6
+New York-Northern New Jersey-Long Island, NY-NJ-PA	9.4
+Niles-Benton Harbor, MI	1.5
+Norwich-New London, CT	3.7
+Ocala, FL	1.3
+Ocean City, NJ	0.9
+Odessa, TX	0.8
+Ogden-Clearfield, UT	1.6
+Oklahoma City, OK	3.0
+Olympia, WA	4.9
+Omaha-Council Bluffs, NE-IA	2.0
+Orlando-Kissimee, FL	3.7
+Oshkosh-Neenah, WI	1.8
+Owensboro, KY	0.5
+Oxnard-Thousand Oaks-Ventura, CA	6.6
+Palm Bay-Melbourne-Titusville, FL	2.0
+Palm Coast, FL	2.0
+Panama City-Lynn Haven, FL	1.9
+Parkersburg-Marietta-Vienna, WV-OH	0.5
+Pascagoula, MS	1.6
+Pensacola-Ferry Pass-Brent, FL	2.3
+Peoria, IL	1.6
+Philadelphia-Camden-Wilmington, PA-NJ-DE-MD	4.4
+Phoenix-Mesa-Scottsdale, AZ	2.9
+Pine Bluff, AR	0.9
+Pittsburgh, PA	1.5
+Pittsfield, MA	1.4
+Pocatello, ID	1.2
+Portland-South Portland-Biddeford, ME	1.3
+Portland-Vancouver-Beaverton, OR-WA	5.4
+Port St. Lucie, FL	1.4
+Poughkeepsie-Newburgh-Middletown, NY	2.8
+Prescott, AZ	0.8
+Providence-New Bedford-Fall River, RI-MA	2.4
+Provo-Orem, UT	1.4
+Pueblo, CO	0.8
+Punta Gorda, FL	1.3
+Racine, WI	0.9
+Raleigh-Cary, NC	3.8
+Rapid City, SD	0.9
+Reading, PA	1.3
+Redding, CA	2.3
+Reno-Sparks, NV	4.9
+Richmond, VA	2.6
+Riverside-San Bernardino-Ontario, CA	5.7
+Roanoke, VA	1.3
+Rochester, MN	4.1
+Rochester, NY	2.2
+Rockford, IL	1.9
+Rocky Mount, NC	0.6
+Rome, GA	1.5
+Sacramento--Arden-Arcade--Roseville, CA	11.1
+Saginaw-Saginaw Township North, MI	1.0
+St. Cloud, MN	1.7
+St. George, UT	0.8
+St. Joseph, MO-KS	0.5
+St. Louis, MO-IL	1.9
+Salem, OR	1.9
+Salinas, CA	6.4
+Salisbury, MD	1.6
+Salt Lake City, UT	2.9
+San Angelo, TX	1.1
+San Antonio, TX	1.9
+San Diego-Carlsbad-San Marcos, CA	10.3
+Sandusky, OH	0.6
+San Francisco-Oakland-Fremont, CA	22.2
+San Jose-Sunnyvale-Santa Clara, CA	30.3
+San Luis Obispo-Paso Robles, CA	3.2
+Santa Barbara-Santa Maria-Goleta, CA	4.5
+Santa Cruz-Watsonville, CA	4.1
+Santa Fe, NM	1.2
+Santa Rosa-Petaluma, CA	3.9
+Savannah, GA	1.9
+Scranton--Wilkes-Barre, PA	0.9
+Seattle-Tacoma-Bellevue, WA	10.6
+Sebastian-Vero Beach, FL	1.1
+Sheboygan, WI	3.9
+Sherman-Denison, TX	0.8
+Shreveport-Bossier City, LA	1.1
+Sioux City, IA-NE-SD	2.5
+Sioux Falls, SD	0.9
+South Bend-Mishawaka, IN-MI	1.5
+Spartanburg, SC	1.8
+Spokane, WA	2.1
+Springfield, IL	1.2
+Springfield, MA	2.1
+Springfield, MO	1.0
+Springfield, OH	0.7
+State College, PA	4.9
+Stockton, CA	13.8
+Sumter, SC	1.1
+Syracuse, NY	1.9
+Tallahassee, FL	2.0
+Tampa-St. Petersburg-Clearwater, FL	2.7
+Terre Haute, IN	1.1
+Texarkana, TX-Texarkana, AR	0.6
+Toledo, OH	1.3
+Topeka, KS	1.1
+Trenton-Ewing, NJ	8.2
+Tucson, AZ	2.6
+Tulsa, OK	1.5
+Tuscaloosa, AL	1.1
+Tyler, TX	0.9
+Utica-Rome, NY	1.3
+Valdosta, GA	1.0
+Vallejo-Fairfield, CA	14.1
+Victoria, TX	1.5
+Vineland-Millville-Bridgeton, NJ	1.2
+Virginia Beach-Norfolk-Newport News, VA-NC	3.1
+Visalia-Porterville, CA	3.5
+Waco, TX	1.5
+Warner Robins, GA	2.0
+Washington-Arlington-Alexandria, DC-VA-MD-WV	8.6
+Waterloo-Cedar Falls, IA	1.1
+Wausau, WI	4.6
+Weirton-Steubenville, WV-OH	0.4
+Wenatchee, WA	1.0
+Wheeling, WV-OH	0.6
+Wichita, KS	3.2
+Wichita Falls, TX	1.8
+Williamsport, PA	0.5
+Wilmington, NC	0.9
+Winchester, VA-WV	1.1
+Winston-Salem, NC	1.2
+Worcester, MA	3.6
+Yakima, WA	1.3
+York-Hanover, PA	1.2
+Youngstown-Warren-Boardman, OH-PA	0.5
+Yuba City, CA	10.4
+Yuma, AZ	1.2

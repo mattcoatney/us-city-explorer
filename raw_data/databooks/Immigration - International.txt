@@ -1,0 +1,364 @@
+MSA	International Immigration
+Abilene, TX	455
+Akron, OH	4,694
+Albany, GA	700
+Albany-Schenectady-Troy, NY	9,250
+Albuquerque, NM	14,054
+Alexandria, LA	483
+Allentown-Bethlehem-Easton, PA-NJ	11,684
+Altoona, PA	186
+Amarillo, TX	3,761
+Ames, IA	3,633
+Anchorage, AK	3,064
+Anderson, IN	605
+Anderson, SC	890
+Ann Arbor, MI	14,974
+Anniston-Oxford, AL	390
+Appleton, WI	1,611
+Asheville, NC	5,935
+Athens-Clarke County, GA	5,444
+Atlanta-Sandy Springs-Marietta, GA	189,267
+Atlantic City-Hammonton, NJ	9,426
+Auburn-Opelika, AL	1,256
+Augusta-Richmond County, GA-SC	2,155
+Austin-Round Rock, TX	61,564
+Bakersfield, CA	21,272
+Baltimore-Towson, MD	32,841
+Bangor, ME	780
+Barnstable Town, MA	2,582
+Baton Rouge, LA	6,473
+Battle Creek, MI	1,244
+Bay City, MI	166
+Beaumont-Port Arthur, TX	4,117
+Bellingham, WA	4,429
+Bend, OR	626
+Billings, MT	232
+Binghamton, NY	2,742
+Birmingham-Hoover, AL	9,278
+Bismarck, ND	277
+Blacksburg-Christiansburg-Radford, VA	2,835
+Bloomington, IN	3,366
+Bloomington-Normal, IL	1,978
+Boise City-Nampa, ID	8,524
+Boston-Cambridge-Quincy, MA-NH	171,722
+Boulder, CO	11,113
+Bowling Green, KY	2,593
+Bradenton-Sarasota-Venice, FL	13,998
+Bremerton-Silverdale, WA	-54
+Bridgeport-Stamford-Norwalk, CT	47,408
+Brownsville-Harlingen, TX	14,858
+Brunswick, GA	923
+Buffalo-Niagara Falls, NY	10,452
+Burlington, NC	4,707
+Burlington-South Burlington, VT	3,329
+Canton-Massillon, OH	676
+Cape Coral-Fort Myers, FL	13,502
+Carson City, NV	1,428
+Casper, WY	279
+Cedar Rapids, IA	1,952
+Champaign-Urbana, IL	7,218
+Charleston, WV	545
+Charleston-North Charleston-Summerville, SC	4,449
+Charlotte-Gastonia-Concord, NC-SC	44,413
+Charlottesville, VA	3,904
+Chattanooga, TN-GA	3,961
+Cheyenne, WY	-36
+Chicago-Naperville-Joliet, IL-IN-WI	401,002
+Chico, CA	3,234
+Cincinnati-Middletown, OH-KY-IN	17,985
+Clarksville, TN-KY	-1,739
+Cleveland, TN	831
+Cleveland-Elyria-Mentor, OH	26,340
+Coeur d'Alene, ID	335
+College Station-Bryan, TX	8,355
+Colorado Springs, CO	5,596
+Columbia, MO	3,046
+Columbia, SC	6,555
+Columbus, GA-AL	800
+Columbus, IN	1,626
+Columbus, OH	31,386
+Corpus Christi, TX	3,203
+Corvallis, OR	2,522
+Cumberland, MD-WV	120
+Dallas-Fort Worth-Arlington, TX	304,391
+Dalton, GA	7,109
+Danville, IL	355
+Danville, VA	618
+Davenport-Moline-Rock Island, IA-IL	3,849
+Dayton, OH	4,076
+Decatur, AL	1,368
+Decatur, IL	362
+Deltona-Daytona Beach-Ormond Beach, FL	6,027
+Denver-Aurora, CO	96,942
+Des Moines-West Des Moines, IA	10,372
+Detroit-Warren-Livonia, MI	94,741
+Dothan, AL	470
+Dover, DE	593
+Dubuque, IA	774
+Duluth, MN-WI	817
+Durham, NC	22,731
+Eau Claire, WI	566
+El Centro, CA	7,996
+Elizabethtown, KY	-9
+Elkhart-Goshen, IN		6,297
+Elmira, NY	304
+El Paso, TX	31,436
+Erie, PA	2,959
+Eugene-Springfield, OR	5,076
+Evansville, IN-KY	1,532
+Fairbanks, AK	-237
+Fargo, ND-MN	2,556
+Farmington, NM	913
+Fayetteville, NC	-1,759
+Fayetteville-Springdale-Rogers, AR-MO	10,537
+Flagstaff, AZ	1,470
+Flint, MI	1,210
+Florence, SC	703
+Florence-Muscle Shoals, AL	423
+Fond du Lac, WI	767
+Fort Collins-Loveland, CO	4,554
+Fort Smith, AR-OK	3,979
+Fort Walton Beach-Crestview-Destin, FL	-550
+Fort Wayne, IN	5,705
+Fresno, CA	34,759
+Gadsden, AL	618
+Gainesville, FL	6,103
+Gainesville, GA	12,091
+Glens Falls, NY	280
+Goldsboro, NC	1,322
+Grand Forks, ND-MN	609
+Grand Junction, CO	895
+Grand Rapids-Wyoming, MI	15,998
+Great Falls, MT	-243
+Greeley, CO	6,495
+Green Bay, WI	3,562
+Greensboro-High Point, NC	20,290
+Greenville, NC	2,803
+Greenville-Mauldin-Easley, SC	11,492
+Gulfport-Biloxi, MS	339
+Hagerstown-Martinsburg, MD-WV	696
+Hanford-Corcoran, CA	3,646
+Harrisburg-Carlisle, PA	5,499
+Harrisonburg, VA	2,918
+Hartford-West Hartford-East Hartford, CT	28,219
+Hattiesburg, MS	798
+Hickory-Lenoir-Morganton, NC	6,992
+Hinesville-Fort Stewart, GA	-680
+Holland-Grand Haven, MI	2,522
+Honolulu, HI	23,295
+Hot Springs, AR	468
+Houma-Bayou Cane-Thibodaux, LA	802
+Houston-Sugar Land-Baytown, TX	277,023
+Huntington-Ashland, WV-KY-OH	543
+Huntsville, AL	3,610
+Idaho Falls, ID	1,049
+Indianapolis-Carmel, IN	21,524
+Iowa City, IA	3,834
+Ithaca, NY	5,009
+Jackson, MI	721
+Jackson, MS	1,923
+Jackson, TN	1,040
+Jacksonville, FL	11,953
+Jacksonville, NC	-4,604
+Janesville, WI	1,951
+Jefferson City, MO	892
+Johnson City, TN	908
+Johnstown, PA	314
+Jonesboro, AR	936
+Joplin, MO	1,369
+Kalamazoo-Portage, MI	4,177
+Kankakee-Bradley, IL	1,007
+Kansas City, MO-KS	29,945
+Kennewick-Pasco-Richland, WA	7,909
+Killeen-Temple-Fort Hood, TX	-1,635
+Kingsport-Bristol-Bristol, TN-VA	928
+Kingston, NY	1,494
+Knoxville, TN	4,606
+Kokomo, IN	436
+La Crosse, WI-MN	517
+Lafayette, IN	6,838
+Lafayette, LA	1,745
+Lake Charles, LA	615
+Lake Havasu City-Kingman, AZ	2,218
+Lakeland-Winter Haven, FL	9,198
+Lancaster, PA	4,079
+Lansing-East Lansing, MI	8,989
+Laredo, TX	12,099
+Las Cruces, NM	5,407
+Las Vegas-Paradise, NV	68,427
+Lawrence, KS	2,401
+Lawton, OK	-1,277
+Lebanon, PA	960
+Lewiston, ID-WA	164
+Lewiston-Auburn, ME	402
+Lexington-Fayette, KY	9,441
+Lima, OH	208
+Lincoln, NE	6,872
+Little Rock-North Little Rock-Conway, AR	3,748
+Logan, UT-ID	2,883
+Longview, TX	2,807
+Longview, WA	995
+Los Angeles-Long Beach-Santa Ana, CA	846,603
+Louisville/Jefferson County, KY-IN	12,133
+Lubbock, TX	2,020
+Lynchburg, VA	1,430
+Macon, GA	1,238
+Madera, CA	6,087
+Madison, WI	12,943
+Manchester-Nashua, NH	8,886
+Mansfield, OH	347
+McAllen-Edinburg-Mission, TX	34,780
+Medford, OR	1,884
+Memphis, TN-MS-AR	13,479
+Merced, CA	9,353
+Miami-Fort Lauderdale-Pompano Beach, FL	439,413
+Michigan City-La Porte, IN	672
+Midland, TX	1,337
+Milwaukee-Waukesha-West Allis, WI	24,674
+Minneapolis-St. Paul-Bloomington, MN-WI	75,425
+Missoula, MT	552
+Mobile, AL	3,194
+Modesto, CA	15,478
+Monroe, LA	408
+Monroe, MI	763
+Montgomery, AL	718
+Morgantown, WV	1,658
+Morristown, TN	2,735
+Mount Vernon-Anacortes, WA	2,724
+Muncie, IN	900
+Muskegon-Norton Shores, MI	762
+Myrtle Beach-North Myrtle Beach-Conway, SC	3,026
+Napa, CA	5,828
+Naples-Marco Island, FL	16,979
+Nashville-Davidson--Murfreesboro--Franklin, TN	26,400
+New Haven-Milford, CT	22,249
+New Orleans-Metairie-Kenner, LA	10,561
+New York-Northern New Jersey-Long Island, NY-NJ-PA	1,145,381
+Niles-Benton Harbor, MI	2,463
+Norwich-New London, CT	2,084
+Ocala, FL	2,575
+Ocean City, NJ	412
+Odessa, TX	1,538
+Ogden-Clearfield, UT	6,086
+Oklahoma City, OK	20,568
+Olympia, WA	2,081
+Omaha-Council Bluffs, NE-IA	11,864
+Orlando-Kissimmee, FL	74,911
+Oshkosh-Neenah, WI	1,309
+Owensboro, KY	317
+Oxnard-Thousand Oaks-Ventura, CA	28,125
+Palm Bay-Melbourne-Titusville, FL	4,451
+Palm Coast, FL	520
+Panama City-Lynn Haven, FL	251
+Parkersburg-Marietta-Vienna, WV-OH	167
+Pascagoula, MS	722
+Pensacola-Ferry Pass-Brent, FL	581
+Peoria, IL	2,190
+Philadelphia-Camden-Wilmington, PA-NJ-DE-MD	99,825
+Phoenix-Mesa-Scottsdale, AZ	175,252
+Pine Bluff, AR	443
+Pittsburgh, PA	16,119
+Pittsfield, MA	965
+Pocatello, ID	689
+Portland-South Portland-Biddeford, ME	2,987
+Portland-Vancouver-Beaverton, OR-WA	71,443
+Port St. Lucie, FL	6,673
+Poughkeepsie-Newburgh-Middletown, NY	10,073
+Prescott, AZ	2,411
+Providence-New Bedford-Fall River, RI-MA	30,944
+Provo-Orem, UT	10,175
+Pueblo, CO	1,248
+Punta Gorda, FL	1,277
+Racine, WI	1,952
+Raleigh-Cary, NC	35,372
+Rapid City, SD	93
+Reading, PA	5,062
+Redding, CA	867
+Reno-Sparks, NV	12,772
+Richmond, VA	13,480
+Riverside-San Bernardino-Ontario, CA	100,441
+Roanoke, VA	2,320
+Rochester, MN	4,791
+Rochester, NY	14,229
+Rockford, IL	6,873
+Rocky Mount, NC	1,444
+Rome, GA	1,792
+Sacramento--Arden-Arcade--Roseville, CA	66,092
+Saginaw-Saginaw Township North, MI	1,064
+St. Cloud, MN	1,220
+St. George, UT	1,195
+St. Joseph, MO-KS	250
+St. Louis, MO-IL	27,722
+Salem, OR	13,354
+Salinas, CA	28,095
+Salisbury, MD	1,254
+Salt Lake City, UT	41,211
+San Angelo, TX	409
+San Antonio, TX	30,640
+San Diego-Carlsbad-San Marcos, CA	104,394
+Sandusky, OH	177
+San Francisco-Oakland-Fremont, CA	259,694
+San Jose-Sunnyvale-Santa Clara, CA	169,164
+San Luis Obispo-Paso Robles, CA	4,137
+Santa Barbara-Santa Maria-Goleta, CA	18,695
+Santa Cruz-Watsonville, CA	10,193
+Santa Fe, NM	5,065
+Santa Rosa-Petaluma, CA	16,573
+Savannah, GA	2,711
+Scranton--Wilkes-Barre, PA	2,023
+Seattle-Tacoma-Bellevue, WA	108,165
+Sebastian-Vero Beach, FL	2,041
+Sheboygan, WI	1,192
+Sherman-Denison, TX	1,609
+Shreveport-Bossier City, LA	612
+Sioux City, IA-NE-SD	4,021
+Sioux Falls, SD	3,144
+South Bend-Mishawaka, IN-MI	4,544
+Spartanburg, SC	3,308
+Spokane, WA	5,376
+Springfield, IL	695
+Springfield, MA	14,285
+Springfield, MO	1,513
+Springfield, OH	209
+State College, PA	4,592
+Stockton, CA	22,173
+Sumter, SC	-34
+Syracuse, NY	7,702
+Tallahassee, FL	4,244
+Tampa-St. Petersburg-Clearwater, FL	62,273
+Terre Haute, IN	881
+Texarkana, TX-Texarkana, AR	524
+Toledo, OH	4,602
+Topeka, KS	1,548
+Trenton-Ewing, NJ	15,978
+Tucson, AZ	22,676
+Tulsa, OK	13,160
+Tuscaloosa, AL	1,691
+Tyler, TX	4,080
+Utica-Rome, NY	5,440
+Valdosta, GA	679
+Vallejo-Fairfield, CA	10,749
+Victoria, TX	1,478
+Vineland-Millville-Bridgeton, NJ	3,628
+Virginia Beach-Norfolk-Newport News, VA-NC	-1,171
+Visalia-Porterville, CA	17,160
+Waco, TX	4,328
+Warner Robins, GA	286
+Washington-Arlington-Alexandria, DC-VA-MD-WV	255,632
+Waterloo-Cedar Falls, IA	2,873
+Wausau, WI	734
+Weirton-Steubenville, WV-OH	132
+Wenatchee, WA	3,185
+Wheeling, WV-OH	254
+Wichita, KS	9,955
+Wichita Falls, TX	346
+Williamsport, PA	101
+Wilmington, NC	3,179
+Winchester, VA-WV	1,271
+Winston-Salem, NC	11,640
+Worcester, MA	19,219
+Yakima, WA	7,955
+York-Hanover, PA	2,238
+Youngstown-Warren-Boardman, OH-PA	1,508
+Yuba City, CA	5,164
+Yuma, AZ	7,367
